@@ -1,0 +1,17 @@
+UNSENT REQUEST DRAFT
+To: EH@NashuaNH.gov
+Subject: Current Nashua restaurant and cafe licensing roster
+
+Hello,
+
+I am compiling a public restaurant and cafe directory limited to Nashua city limits. Could you provide the current roster of licensed food-service establishments, preferably as CSV or Excel?
+
+Public business fields that would help are establishment name, street address, license or facility identifier, establishment category, and current operating/license status. Please include the roster's effective date. No private owner contact information is needed.
+
+If your roster includes schools, hospitals, institutional kitchens, temporary vendors, retail-only stores or inactive facilities, a category/status field would help distinguish those from public restaurants, cafes, bakeries and prepared-food counters.
+
+Please let me know if a public download is available or if a different request process is required. If there would be a fee, please provide the amount before processing.
+
+Thank you.
+
+Context: https://www.nashuanh.gov/525/Food-Service-Safety identifies this address for licensing inquiries. The page's count of over 525 licensed facilities is not a restaurant census and must not be subtracted from our 282 records to estimate omissions.

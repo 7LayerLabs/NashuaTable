@@ -1,0 +1,43 @@
+[
+  {
+    "id": "nashua-3",
+    "cuisine": "Seafood · American · Italian · Breakfast",
+    "cuisines": [
+      "American",
+      "Seafood",
+      "Italian",
+      "Breakfast"
+    ],
+    "cuisineAttribution": {
+      "label": "User-provided cuisine correction",
+      "date": "2026-10-03",
+      "note": "Bobola’s serves seafood, American food, Italian food, and breakfast."
+    }
+  },
+  {
+    "id": "osm-way-203684949",
+    "cuisine": "American · Breakfast",
+    "cuisines": [
+      "American",
+      "Breakfast"
+    ],
+    "cuisineAttribution": {
+      "label": "User-provided cuisine correction",
+      "date": "2026-10-03",
+      "note": "Roland's Family Restaurant serves breakfast."
+    }
+  },
+  {
+    "id": "osm-way-204761861",
+    "cuisine": "American · Breakfast",
+    "cuisines": [
+      "American",
+      "Breakfast"
+    ],
+    "cuisineAttribution": {
+      "label": "User-provided cuisine correction",
+      "date": "2026-10-03",
+      "note": "Bud's Restaurant serves breakfast."
+    }
+  }
+]

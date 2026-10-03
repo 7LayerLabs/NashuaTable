@@ -1,0 +1,731 @@
+[
+  {
+    "address": "9 Main Street",
+    "matches": [
+      {
+        "place_id": 362748088,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 169915231,
+        "lat": "42.7651036",
+        "lon": "-71.4676967",
+        "category": "shop",
+        "type": "florist",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "shop",
+        "name": "Collins Flowers",
+        "display_name": "Collins Flowers, 9, Main Street, Nashville Historic District, Ward 3, Nashua, Hillsborough County, New Hampshire, 03064, United States",
+        "address": {
+          "shop": "Collins Flowers",
+          "house_number": "9",
+          "road": "Main Street",
+          "neighbourhood": "Nashville Historic District",
+          "city_district": "Ward 3",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03064",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7650187",
+          "42.7652016",
+          "-71.4678212",
+          "-71.4675722"
+        ]
+      },
+      {
+        "place_id": 400812653,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 42674102,
+        "lat": "42.7638033",
+        "lon": "-71.4665356",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 0.00000999999999995449,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "9, Main Street, Nashville Historic District, Ward 3, Nashua, Hillsborough County, New Hampshire, 03064, United States",
+        "address": {
+          "house_number": "9",
+          "road": "Main Street",
+          "neighbourhood": "Nashville Historic District",
+          "city_district": "Ward 3",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03064",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7637533",
+          "42.7638533",
+          "-71.4665856",
+          "-71.4664856"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "34 Northwest Boulevard",
+    "matches": [
+      {
+        "place_id": 363689902,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 241059727,
+        "lat": "42.8001458",
+        "lon": "-71.5418407",
+        "category": "shop",
+        "type": "books",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "shop",
+        "name": "Book Cellar",
+        "display_name": "Book Cellar, 34, Northwest Boulevard, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "shop": "Book Cellar",
+          "house_number": "34",
+          "road": "Northwest Boulevard",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7999776",
+          "42.8003139",
+          "-71.5420445",
+          "-71.5416369"
+        ]
+      },
+      {
+        "place_id": 401352884,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 5593878,
+        "lat": "42.8024211",
+        "lon": "-71.5420220",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 0.00000999999999995449,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "34, Northwest Boulevard, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "house_number": "34",
+          "road": "Northwest Boulevard",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.8023711",
+          "42.8024711",
+          "-71.5420720",
+          "-71.5419720"
+        ]
+      },
+      {
+        "place_id": 401348298,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 230560017,
+        "lat": "42.8022826",
+        "lon": "-71.5418310",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 0.00000999999999995449,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "34, Northwest Boulevard, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "house_number": "34",
+          "road": "Northwest Boulevard",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.8022326",
+          "42.8023326",
+          "-71.5418810",
+          "-71.5417810"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "483 Amherst Street",
+    "matches": [
+      {
+        "place_id": 359314940,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 241059744,
+        "lat": "42.7919524",
+        "lon": "-71.5201590",
+        "category": "shop",
+        "type": "games",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "shop",
+        "name": "Relentless Dragon",
+        "display_name": "Relentless Dragon, 483, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "shop": "Relentless Dragon",
+          "house_number": "483",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7918361",
+          "42.7920686",
+          "-71.5203027",
+          "-71.5200153"
+        ]
+      },
+      {
+        "place_id": 363176906,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 241059824,
+        "lat": "42.7918578",
+        "lon": "-71.5200008",
+        "category": "amenity",
+        "type": "animal_boarding",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "Pupville",
+        "display_name": "Pupville, 483, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "amenity": "Pupville",
+          "house_number": "483",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7917605",
+          "42.7919787",
+          "-71.5201414",
+          "-71.5198376"
+        ]
+      },
+      {
+        "place_id": 359812148,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 241059757,
+        "lat": "42.7920421",
+        "lon": "-71.5203199",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "483, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "house_number": "483",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7919334",
+          "42.7921508",
+          "-71.5204500",
+          "-71.5201898"
+        ]
+      },
+      {
+        "place_id": 363196835,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 241059953,
+        "lat": "42.7919074",
+        "lon": "-71.5200783",
+        "category": "shop",
+        "type": "e-cigarette",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "shop",
+        "name": "Wild Side Smoke Shop",
+        "display_name": "Wild Side Smoke Shop, 483, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "shop": "Wild Side Smoke Shop",
+          "house_number": "483",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7918076",
+          "42.7920071",
+          "-71.5201925",
+          "-71.5199642"
+        ]
+      },
+      {
+        "place_id": 400816599,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 445642668,
+        "lat": "42.7918984",
+        "lon": "-71.5215260",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 0.00000999999999995449,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "483, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "house_number": "483",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7918484",
+          "42.7919484",
+          "-71.5215760",
+          "-71.5214760"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "449 Amherst Street",
+    "matches": [
+      {
+        "place_id": 360555035,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 194225739,
+        "lat": "42.7898977",
+        "lon": "-71.5162264",
+        "category": "shop",
+        "type": "mobile_phone",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "shop",
+        "name": "T-Mobile",
+        "display_name": "T-Mobile, 449, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "shop": "T-Mobile",
+          "house_number": "449",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7897806",
+          "42.7900147",
+          "-71.5163817",
+          "-71.5160711"
+        ]
+      },
+      {
+        "place_id": 360557006,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 194225724,
+        "lat": "42.7896099",
+        "lon": "-71.5156692",
+        "category": "leisure",
+        "type": "tanning_salon",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "leisure",
+        "name": "Executive Tan",
+        "display_name": "Executive Tan, 449, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "leisure": "Executive Tan",
+          "house_number": "449",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7894986",
+          "42.7897211",
+          "-71.5158011",
+          "-71.5155373"
+        ]
+      },
+      {
+        "place_id": 360557727,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 194225728,
+        "lat": "42.7897294",
+        "lon": "-71.5158778",
+        "category": "shop",
+        "type": "beauty",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "shop",
+        "name": "Amy Nails",
+        "display_name": "Amy Nails, 449, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "shop": "Amy Nails",
+          "house_number": "449",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7896181",
+          "42.7898406",
+          "-71.5160097",
+          "-71.5157459"
+        ]
+      },
+      {
+        "place_id": 360559013,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 194225735,
+        "lat": "42.7898090",
+        "lon": "-71.5160169",
+        "category": "amenity",
+        "type": "pub",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "O'Shea's",
+        "display_name": "O'Shea's, 449, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "amenity": "O'Shea's",
+          "house_number": "449",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7896977",
+          "42.7899202",
+          "-71.5161488",
+          "-71.5158850"
+        ]
+      },
+      {
+        "place_id": 360562872,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 194225741,
+        "lat": "42.7896895",
+        "lon": "-71.5158083",
+        "category": "shop",
+        "type": "money_lender",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "shop",
+        "name": "Title Cash",
+        "display_name": "Title Cash, 449, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "shop": "Title Cash",
+          "house_number": "449",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7895783",
+          "42.7898008",
+          "-71.5159402",
+          "-71.5156764"
+        ]
+      },
+      {
+        "place_id": 360572891,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 194225725,
+        "lat": "42.7897692",
+        "lon": "-71.5159474",
+        "category": "shop",
+        "type": "tobacco",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "shop",
+        "name": "Good Times Smoke Shop",
+        "display_name": "Good Times Smoke Shop, 449, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "shop": "Good Times Smoke Shop",
+          "house_number": "449",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7896579",
+          "42.7898804",
+          "-71.5160793",
+          "-71.5158155"
+        ]
+      },
+      {
+        "place_id": 361973504,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 194225738,
+        "lat": "42.7896497",
+        "lon": "-71.5157387",
+        "category": "leisure",
+        "type": "sports_centre",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "leisure",
+        "name": "9 Round",
+        "display_name": "9 Round, 449, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "leisure": "9 Round",
+          "house_number": "449",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7895384",
+          "42.7897609",
+          "-71.5158706",
+          "-71.5156068"
+        ]
+      },
+      {
+        "place_id": 365292409,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 103064352,
+        "lat": "42.7895701",
+        "lon": "-71.5155997",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "Pig Tale",
+        "display_name": "Pig Tale, 449, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "amenity": "Pig Tale",
+          "house_number": "449",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7894588",
+          "42.7896813",
+          "-71.5157316",
+          "-71.5154678"
+        ]
+      },
+      {
+        "place_id": 362178007,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 194225717,
+        "lat": "42.7898309",
+        "lon": "-71.5161100",
+        "category": "shop",
+        "type": "beauty",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "shop",
+        "name": "Art of Eyebrows",
+        "display_name": "Art of Eyebrows, 449, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "shop": "Art of Eyebrows",
+          "house_number": "449",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7897376",
+          "42.7899244",
+          "-71.5162240",
+          "-71.5159959"
+        ]
+      },
+      {
+        "place_id": 401218710,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 770050116,
+        "lat": "42.7897514",
+        "lon": "-71.5173197",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 0.00000999999999995449,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "449, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "house_number": "449",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7897014",
+          "42.7898014",
+          "-71.5173697",
+          "-71.5172697"
+        ]
+      },
+      {
+        "place_id": 401223997,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 445642689,
+        "lat": "42.7901386",
+        "lon": "-71.5174135",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 0.00000999999999995449,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "449, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "house_number": "449",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7900886",
+          "42.7901886",
+          "-71.5174635",
+          "-71.5173635"
+        ]
+      }
+    ]
+  }
+]

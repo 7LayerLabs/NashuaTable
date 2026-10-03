@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-10-03",
+  "source": {
+    "name": "Nashua city limits",
+    "source": "City of Nashua GIS · City Boundary (111)",
+    "sourceUrl": "https://newgis.nashuanh.gov/arcgisapp3/rest/services/HTML_Viewer/NashuaNH_OperationalLayers_2022/MapServer/111",
+    "retrievedAt": "2026-10-03",
+    "precision": "City GIS boundary simplified to approximately one metre for display; not a survey"
+  },
+  "total": 282,
+  "inside": 282,
+  "outside": [],
+  "method": "Point-in-polygon against unsimplified city GIS boundary. Tests coordinate placement, not current business identity.",
+  "displayAgrees": true
+}

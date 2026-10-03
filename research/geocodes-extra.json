@@ -1,0 +1,297 @@
+[
+  {
+    "address": "2 Courtland Street",
+    "matches": [
+      {
+        "place_id": 363885269,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 162043252,
+        "lat": "42.7719427",
+        "lon": "-71.4701483",
+        "category": "shop",
+        "type": "convenience",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "shop",
+        "name": "Jeannotte's Market",
+        "display_name": "Jeannotte's Market, 2, Courtland Street, Ward 3, Nashua, Hillsborough County, New Hampshire, 03064, United States",
+        "address": {
+          "shop": "Jeannotte's Market",
+          "house_number": "2",
+          "road": "Courtland Street",
+          "city_district": "Ward 3",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03064",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7718258",
+          "42.7720692",
+          "-71.4702577",
+          "-71.4700566"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "2200 Southwood Drive",
+    "matches": [
+      {
+        "place_id": 361406818,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 232531681,
+        "lat": "42.7866943",
+        "lon": "-71.4968242",
+        "category": "tourism",
+        "type": "hotel",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "tourism",
+        "name": "Courtyard",
+        "display_name": "Courtyard, 2200, Southwood Drive, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "tourism": "Courtyard",
+          "house_number": "2200",
+          "road": "Southwood Drive",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7862646",
+          "42.7871185",
+          "-71.4974911",
+          "-71.4962351"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "2 Cellu Drive",
+    "matches": [
+      {
+        "place_id": 362492549,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 194225742,
+        "lat": "42.7978310",
+        "lon": "-71.5336612",
+        "category": "healthcare",
+        "type": "counselling",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "healthcare",
+        "name": "WW Studio",
+        "display_name": "WW Studio, 2, Cellu Drive, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "healthcare": "WW Studio",
+          "house_number": "2",
+          "road": "Cellu Drive",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7977404",
+          "42.7979215",
+          "-71.5338057",
+          "-71.5335167"
+        ]
+      },
+      {
+        "place_id": 362849554,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 194225729,
+        "lat": "42.7979206",
+        "lon": "-71.5335678",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "2, Cellu Drive, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "house_number": "2",
+          "road": "Cellu Drive",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7978305",
+          "42.7980107",
+          "-71.5337118",
+          "-71.5334238"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "341 Amherst Street",
+    "matches": [
+      {
+        "place_id": 363580749,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 146701689,
+        "lat": "42.7831477",
+        "lon": "-71.5035512",
+        "category": "amenity",
+        "type": "fast_food",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "Five Guys",
+        "display_name": "Five Guys, 341, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "amenity": "Five Guys",
+          "house_number": "341",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7830622",
+          "42.7832907",
+          "-71.5036853",
+          "-71.5034085"
+        ]
+      },
+      {
+        "place_id": 360559946,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 232531784,
+        "lat": "42.7829552",
+        "lon": "-71.5031233",
+        "category": "building",
+        "type": "retail",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "341, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "house_number": "341",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7828602",
+          "42.7830502",
+          "-71.5032411",
+          "-71.5030055"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "29 Main Street",
+    "matches": [
+      {
+        "place_id": 401344651,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 42674102,
+        "lat": "42.7637644",
+        "lon": "-71.4665157",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 0.00000999999999995449,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "29, Main Street, Nashville Historic District, Ward 3, Nashua, Hillsborough County, New Hampshire, 03064, United States",
+        "address": {
+          "house_number": "29",
+          "road": "Main Street",
+          "neighbourhood": "Nashville Historic District",
+          "city_district": "Ward 3",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03064",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7637144",
+          "42.7638144",
+          "-71.4665657",
+          "-71.4664657"
+        ]
+      },
+      {
+        "place_id": 401353625,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 947876104,
+        "lat": "42.7644351",
+        "lon": "-71.4671428",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 0.00000999999999995449,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "29, Main Street, Nashville Historic District, Ward 3, Nashua, Hillsborough County, New Hampshire, 03064, United States",
+        "address": {
+          "house_number": "29",
+          "road": "Main Street",
+          "neighbourhood": "Nashville Historic District",
+          "city_district": "Ward 3",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03064",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7643851",
+          "42.7644851",
+          "-71.4671928",
+          "-71.4670928"
+        ]
+      }
+    ]
+  }
+]

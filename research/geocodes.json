@@ -1,0 +1,1710 @@
+[
+  {
+    "address": "350 Amherst Street",
+    "matches": [
+      {
+        "place_id": 363158955,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 146701672,
+        "lat": "42.7823369",
+        "lon": "-71.5039138",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "Grand Buffet",
+        "display_name": "Grand Buffet, 350, Amherst Street, Ward 1, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "amenity": "Grand Buffet",
+          "house_number": "350",
+          "road": "Amherst Street",
+          "city_district": "Ward 1",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7821275",
+          "42.7825179",
+          "-71.5041914",
+          "-71.5036606"
+        ]
+      },
+      {
+        "place_id": 360541788,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 146701673,
+        "lat": "42.7824716",
+        "lon": "-71.5040823",
+        "category": "shop",
+        "type": "dry_cleaning",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "shop",
+        "name": "KT Cleaners",
+        "display_name": "KT Cleaners, 350, Amherst Street, Ward 1, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "shop": "KT Cleaners",
+          "house_number": "350",
+          "road": "Amherst Street",
+          "city_district": "Ward 1",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7823867",
+          "42.7825565",
+          "-71.5041805",
+          "-71.5039841"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "13 Broad Street",
+    "matches": [
+      {
+        "place_id": 363826050,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 229627954,
+        "lat": "42.7700473",
+        "lon": "-71.4807260",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "Shira Kiku",
+        "display_name": "Shira Kiku, 13, Broad Street, Ward 4, Nashua, Hillsborough County, New Hampshire, 03064, United States",
+        "address": {
+          "amenity": "Shira Kiku",
+          "house_number": "13",
+          "road": "Broad Street",
+          "city_district": "Ward 4",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03064",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7699641",
+          "42.7701610",
+          "-71.4808430",
+          "-71.4806312"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "150 Broad Street",
+    "matches": [
+      {
+        "place_id": 362763922,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 260165822,
+        "lat": "42.7674653",
+        "lon": "-71.4946927",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "You You Japanese Bistro",
+        "display_name": "You You Japanese Bistro, 150, Broad Street, Broad Acres, Ward 1, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "amenity": "You You Japanese Bistro",
+          "house_number": "150",
+          "road": "Broad Street",
+          "hamlet": "Broad Acres",
+          "city_district": "Ward 1",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7673520",
+          "42.7675927",
+          "-71.4948734",
+          "-71.4945120"
+        ]
+      },
+      {
+        "place_id": 362722007,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 178945165,
+        "lat": "42.7675435",
+        "lon": "-71.4947935",
+        "category": "office",
+        "type": "tax_advisor",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "office",
+        "name": "H&R Block",
+        "display_name": "H&R Block, 150, Broad Street, Broad Acres, Ward 1, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "office": "H&R Block",
+          "house_number": "150",
+          "road": "Broad Street",
+          "hamlet": "Broad Acres",
+          "city_district": "Ward 1",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7674242",
+          "42.7676548",
+          "-71.4949691",
+          "-71.4946306"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "112 West Pearl Street",
+    "matches": [
+      {
+        "place_id": 364512363,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 180771905,
+        "lat": "42.7596352",
+        "lon": "-71.4666463",
+        "category": "amenity",
+        "type": "bar",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "Code X",
+        "display_name": "Code X, 112, West Pearl Street, Ward 4, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "amenity": "Code X",
+          "house_number": "112",
+          "road": "West Pearl Street",
+          "city_district": "Ward 4",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7595552",
+          "42.7597144",
+          "-71.4667613",
+          "-71.4665312"
+        ]
+      },
+      {
+        "place_id": 360468436,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 179221573,
+        "lat": "42.7595509",
+        "lon": "-71.4666086",
+        "category": "amenity",
+        "type": "social_facility",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "The Youth Council",
+        "display_name": "The Youth Council, 112, West Pearl Street, Ward 4, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "amenity": "The Youth Council",
+          "house_number": "112",
+          "road": "West Pearl Street",
+          "city_district": "Ward 4",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7595036",
+          "42.7595989",
+          "-71.4667095",
+          "-71.4665078"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "4 Sunapee Street",
+    "matches": [
+      {
+        "place_id": 362532031,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 241059763,
+        "lat": "42.7903257",
+        "lon": "-71.5174799",
+        "category": "shop",
+        "type": "bakery",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "shop",
+        "name": "Great Harvest Bread",
+        "display_name": "Great Harvest Bread, 4, Sunapee Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "shop": "Great Harvest Bread",
+          "house_number": "4",
+          "road": "Sunapee Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7902231",
+          "42.7904340",
+          "-71.5176311",
+          "-71.5173360"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "172 Kinsley Street",
+    "matches": [
+      {
+        "place_id": 364141437,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 204761875,
+        "lat": "42.7492230",
+        "lon": "-71.4801969",
+        "category": "amenity",
+        "type": "hospital",
+        "place_rank": 30,
+        "importance": 0.1679799034751623,
+        "addresstype": "amenity",
+        "name": "Saint Joseph Hospital",
+        "display_name": "Saint Joseph Hospital, 172, Kinsley Street, Ward 6, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "amenity": "Saint Joseph Hospital",
+          "house_number": "172",
+          "road": "Kinsley Street",
+          "city_district": "Ward 6",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7473163",
+          "42.7508679",
+          "-71.4818176",
+          "-71.4778178"
+        ]
+      },
+      {
+        "place_id": 368945892,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 204761863,
+        "lat": "42.7492790",
+        "lon": "-71.4804704",
+        "category": "building",
+        "type": "hospital",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "172, Kinsley Street, Ward 6, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "house_number": "172",
+          "road": "Kinsley Street",
+          "city_district": "Ward 6",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7486753",
+          "42.7499548",
+          "-71.4811106",
+          "-71.4796197"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "230 Daniel Webster Highway",
+    "matches": [
+      {
+        "place_id": 362976887,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 53332379,
+        "lat": "42.7116557",
+        "lon": "-71.4405600",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "IHOP",
+        "display_name": "IHOP, 230, Daniel Webster Highway, South Nashua, Ward 7, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "amenity": "IHOP",
+          "house_number": "230",
+          "road": "Daniel Webster Highway",
+          "suburb": "South Nashua",
+          "city_district": "Ward 7",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7115518",
+          "42.7117575",
+          "-71.4407230",
+          "-71.4403231"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "310 Daniel Webster Highway",
+    "matches": [
+      {
+        "place_id": 362082200,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4305086551,
+        "lat": "42.7024918",
+        "lon": "-71.4370986",
+        "category": "shop",
+        "type": "music",
+        "place_rank": 30,
+        "importance": 0.25876906166717667,
+        "addresstype": "shop",
+        "name": "Newbury Comics",
+        "display_name": "Newbury Comics, 310, Daniel Webster Highway, South Nashua, Ward 7, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "shop": "Newbury Comics",
+          "house_number": "310",
+          "road": "Daniel Webster Highway",
+          "suburb": "South Nashua",
+          "city_district": "Ward 7",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7024418",
+          "42.7025418",
+          "-71.4371486",
+          "-71.4370486"
+        ]
+      },
+      {
+        "place_id": 360455678,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 31357765,
+        "lat": "42.7012155",
+        "lon": "-71.4371756",
+        "category": "shop",
+        "type": "mall",
+        "place_rank": 30,
+        "importance": 0.00004975585564960735,
+        "addresstype": "shop",
+        "name": "Pheasant Lane Mall",
+        "display_name": "Pheasant Lane Mall, 310, Daniel Webster Highway, South Nashua, Ward 7, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "shop": "Pheasant Lane Mall",
+          "house_number": "310",
+          "road": "Daniel Webster Highway",
+          "suburb": "South Nashua",
+          "city_district": "Ward 7",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7000017",
+          "42.7025615",
+          "-71.4378024",
+          "-71.4360724"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "66 Canal Street",
+    "matches": [
+      {
+        "place_id": 365311484,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 169662150,
+        "lat": "42.7642202",
+        "lon": "-71.4596629",
+        "category": "shop",
+        "type": "laundry",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "shop",
+        "name": "Laundry 66",
+        "display_name": "Laundry 66, 66, Canal Street, BAE Systems, Ward 3, Nashua, Hillsborough County, New Hampshire, 03064, United States",
+        "address": {
+          "shop": "Laundry 66",
+          "house_number": "66",
+          "road": "Canal Street",
+          "industrial": "BAE Systems",
+          "city_district": "Ward 3",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03064",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7641531",
+          "42.7642872",
+          "-71.4597258",
+          "-71.4595999"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "6 Mountain Laurels Drive",
+    "matches": [
+      {
+        "place_id": 364490159,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 983744817,
+        "lat": "42.7056165",
+        "lon": "-71.4709156",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "6, Mountain Laurels Drive, Ward 9, Nashua, Hillsborough County, New Hampshire, 03062, United States",
+        "address": {
+          "house_number": "6",
+          "road": "Mountain Laurels Drive",
+          "city_district": "Ward 9",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03062",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7053980",
+          "42.7059160",
+          "-71.4712520",
+          "-71.4706250"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "306 Innovative Way",
+    "matches": [
+      {
+        "place_id": 400837671,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 870629368,
+        "lat": "42.7115174",
+        "lon": "-71.4557741",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 0.00000999999999995449,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "306, Innovative Way, Nashua Technology Park, Ward 8, Nashua, Hillsborough County, New Hampshire, 03062, United States",
+        "address": {
+          "house_number": "306",
+          "road": "Innovative Way",
+          "commercial": "Nashua Technology Park",
+          "city_district": "Ward 8",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03062",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7114674",
+          "42.7115674",
+          "-71.4558241",
+          "-71.4557241"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "225 Daniel Webster Highway",
+    "matches": [
+      {
+        "place_id": 362786088,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 161930779,
+        "lat": "42.7119827",
+        "lon": "-71.4439371",
+        "category": "office",
+        "type": "financial_advisor",
+        "place_rank": 30,
+        "importance": 0.46861072583074226,
+        "addresstype": "office",
+        "name": "Fidelity Investments",
+        "display_name": "Fidelity Investments, 225, Daniel Webster Highway, Ward 8, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "office": "Fidelity Investments",
+          "house_number": "225",
+          "road": "Daniel Webster Highway",
+          "city_district": "Ward 8",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7118768",
+          "42.7120885",
+          "-71.4441694",
+          "-71.4437048"
+        ]
+      },
+      {
+        "place_id": 359697776,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 430267601,
+        "lat": "42.7128896",
+        "lon": "-71.4439610",
+        "category": "shop",
+        "type": "flooring",
+        "place_rank": 30,
+        "importance": 0.2024340213354661,
+        "addresstype": "shop",
+        "name": "Lumber Liquidators",
+        "display_name": "Lumber Liquidators, 225, Daniel Webster Highway, Ward 8, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "shop": "Lumber Liquidators",
+          "house_number": "225",
+          "road": "Daniel Webster Highway",
+          "city_district": "Ward 8",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7127841",
+          "42.7129950",
+          "-71.4443342",
+          "-71.4435877"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "300 Main Street",
+    "matches": [
+      {
+        "place_id": 362557969,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 204875428,
+        "lat": "42.7530656",
+        "lon": "-71.4588540",
+        "category": "shop",
+        "type": "variety_store",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "shop",
+        "name": "Ocean State Job Lot",
+        "display_name": "Ocean State Job Lot, 300, Main Street, Ward 7, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "shop": "Ocean State Job Lot",
+          "house_number": "300",
+          "road": "Main Street",
+          "city_district": "Ward 7",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7527261",
+          "42.7534051",
+          "-71.4593784",
+          "-71.4583295"
+        ]
+      },
+      {
+        "place_id": 362894894,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 204875442,
+        "lat": "42.7525213",
+        "lon": "-71.4586860",
+        "category": "leisure",
+        "type": "sports_centre",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "leisure",
+        "name": "Work Out World",
+        "display_name": "Work Out World, 300, Main Street, Ward 7, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "leisure": "Work Out World",
+          "house_number": "300",
+          "road": "Main Street",
+          "city_district": "Ward 7",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7522830",
+          "42.7527597",
+          "-71.4591792",
+          "-71.4581928"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "30 Temple Street",
+    "matches": [
+      {
+        "place_id": 419457081,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13902134641,
+        "lat": "42.7619764",
+        "lon": "-71.4632418",
+        "category": "amenity",
+        "type": "doctors",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "Healthy Perspectives Innovative Mental Health Services",
+        "display_name": "Healthy Perspectives Innovative Mental Health Services, 30, Temple Street, Ward 4, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "amenity": "Healthy Perspectives Innovative Mental Health Services",
+          "house_number": "30",
+          "road": "Temple Street",
+          "city_district": "Ward 4",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7619264",
+          "42.7620264",
+          "-71.4632918",
+          "-71.4631918"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "650 Amherst Street",
+    "matches": [
+      {
+        "place_id": 363090560,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 241059921,
+        "lat": "42.8025290",
+        "lon": "-71.5420643",
+        "category": "shop",
+        "type": "paint",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "shop",
+        "name": "Sherwin-Williams",
+        "display_name": "Sherwin-Williams, 650, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "shop": "Sherwin-Williams",
+          "house_number": "650",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.8023983",
+          "42.8026598",
+          "-71.5422257",
+          "-71.5419028"
+        ]
+      },
+      {
+        "place_id": 359459696,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 241059752,
+        "lat": "42.8025952",
+        "lon": "-71.5421812",
+        "category": "amenity",
+        "type": "cafe",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "Fat Daddy's",
+        "display_name": "Fat Daddy's, 650, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "amenity": "Fat Daddy's",
+          "house_number": "650",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.8024655",
+          "42.8027250",
+          "-71.5423409",
+          "-71.5420215"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "2 Cellu Drive",
+    "matches": [
+      {
+        "place_id": 362492549,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 194225742,
+        "lat": "42.7978310",
+        "lon": "-71.5336612",
+        "category": "healthcare",
+        "type": "counselling",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "healthcare",
+        "name": "WW Studio",
+        "display_name": "WW Studio, 2, Cellu Drive, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "healthcare": "WW Studio",
+          "house_number": "2",
+          "road": "Cellu Drive",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7977404",
+          "42.7979215",
+          "-71.5338057",
+          "-71.5335167"
+        ]
+      },
+      {
+        "place_id": 362849554,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 194225729,
+        "lat": "42.7979206",
+        "lon": "-71.5335678",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "2, Cellu Drive, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "house_number": "2",
+          "road": "Cellu Drive",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7978305",
+          "42.7980107",
+          "-71.5337118",
+          "-71.5334238"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "33 Lowell Street",
+    "matches": [
+      {
+        "place_id": 361896706,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 190539404,
+        "lat": "42.7650987",
+        "lon": "-71.4653719",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "Café Brasileiro",
+        "display_name": "Café Brasileiro, 33, Lowell Street, Nashville Historic District, Ward 3, Nashua, Hillsborough County, New Hampshire, 03064, United States",
+        "address": {
+          "amenity": "Café Brasileiro",
+          "house_number": "33",
+          "road": "Lowell Street",
+          "neighbourhood": "Nashville Historic District",
+          "city_district": "Ward 3",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03064",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7650416",
+          "42.7651557",
+          "-71.4654908",
+          "-71.4652529"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "217 Main Street",
+    "matches": [
+      {
+        "place_id": 362782525,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8773566910,
+        "lat": "42.7593611",
+        "lon": "-71.4649288",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "217, Main Street, Ward 4, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "house_number": "217",
+          "road": "Main Street",
+          "city_district": "Ward 4",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7593111",
+          "42.7594111",
+          "-71.4649788",
+          "-71.4648788"
+        ]
+      },
+      {
+        "place_id": 401349243,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 947876109,
+        "lat": "42.7593048",
+        "lon": "-71.4647440",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 0.00000999999999995449,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "217, Main Street, Ward 4, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "house_number": "217",
+          "road": "Main Street",
+          "city_district": "Ward 4",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7592548",
+          "42.7593548",
+          "-71.4647940",
+          "-71.4646940"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "97 Main Street",
+    "matches": [
+      {
+        "place_id": 365376589,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 179913151,
+        "lat": "42.7621454",
+        "lon": "-71.4662995",
+        "category": "amenity",
+        "type": "bar",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "The Flight Center",
+        "display_name": "The Flight Center, 97, Main Street, Ward 4, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "amenity": "The Flight Center",
+          "house_number": "97",
+          "road": "Main Street",
+          "city_district": "Ward 4",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7620504",
+          "42.7622403",
+          "-71.4665176",
+          "-71.4660814"
+        ]
+      },
+      {
+        "place_id": 361792986,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 179913175,
+        "lat": "42.7622407",
+        "lon": "-71.4663419",
+        "category": "shop",
+        "type": "copyshop",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "shop",
+        "name": "AlphaGraphics",
+        "display_name": "AlphaGraphics, 97, Main Street, Ward 4, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "shop": "AlphaGraphics",
+          "house_number": "97",
+          "road": "Main Street",
+          "city_district": "Ward 4",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7621458",
+          "42.7623356",
+          "-71.4665600",
+          "-71.4661239"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "495 Amherst Street",
+    "matches": [
+      {
+        "place_id": 363703498,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 241059880,
+        "lat": "42.7932391",
+        "lon": "-71.5224978",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "495, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "house_number": "495",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7930606",
+          "42.7934175",
+          "-71.5227549",
+          "-71.5222406"
+        ]
+      },
+      {
+        "place_id": 364164915,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7188768319,
+        "lat": "42.7933045",
+        "lon": "-71.5226082",
+        "category": "amenity",
+        "type": "ice_cream",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "Sub Zero",
+        "display_name": "Sub Zero, 495, Amherst Street, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "amenity": "Sub Zero",
+          "house_number": "495",
+          "road": "Amherst Street",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7932545",
+          "42.7933545",
+          "-71.5226582",
+          "-71.5225582"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "2 Somerset Parkway",
+    "matches": [
+      {
+        "place_id": 362860632,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 232531684,
+        "lat": "42.7870772",
+        "lon": "-71.5039599",
+        "category": "tourism",
+        "type": "hotel",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "tourism",
+        "name": "DoubleTree",
+        "display_name": "DoubleTree, 2, Somerset Parkway, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "tourism": "DoubleTree",
+          "house_number": "2",
+          "road": "Somerset Parkway",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7864876",
+          "42.7876767",
+          "-71.5046773",
+          "-71.5034934"
+        ]
+      },
+      {
+        "place_id": 400824589,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 976228027,
+        "lat": "42.7860434",
+        "lon": "-71.5094816",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 0.00000999999999995449,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "2, Somerset Parkway, Ward 2, Nashua, Hillsborough County, New Hampshire, 03063, United States",
+        "address": {
+          "house_number": "2",
+          "road": "Somerset Parkway",
+          "city_district": "Ward 2",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03063",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7859934",
+          "42.7860934",
+          "-71.5095316",
+          "-71.5094316"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "92 West Pearl Street",
+    "matches": [
+      {
+        "place_id": 362765743,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 180771911,
+        "lat": "42.7597471",
+        "lon": "-71.4660136",
+        "category": "shop",
+        "type": "bakery",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "shop",
+        "name": "Tex Mex Bakery",
+        "display_name": "Tex Mex Bakery, 92, West Pearl Street, Ward 4, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "shop": "Tex Mex Bakery",
+          "house_number": "92",
+          "road": "West Pearl Street",
+          "city_district": "Ward 4",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7596349",
+          "42.7598595",
+          "-71.4661096",
+          "-71.4659176"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "118 Main Street",
+    "matches": [
+      {
+        "place_id": 363844723,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 580207595,
+        "lat": "42.7620797",
+        "lon": "-71.4654163",
+        "category": "amenity",
+        "type": "bar",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "O'Brian's Sports Bar",
+        "display_name": "O'Brian's Sports Bar, 118, Main Street, Ward 4, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "amenity": "O'Brian's Sports Bar",
+          "house_number": "118",
+          "road": "Main Street",
+          "city_district": "Ward 4",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7619480",
+          "42.7622042",
+          "-71.4656543",
+          "-71.4650267"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "36 East Otterson Street",
+    "matches": [
+      {
+        "place_id": 363510928,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 205162513,
+        "lat": "42.7553099",
+        "lon": "-71.4590531",
+        "category": "building",
+        "type": "retail",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "building",
+        "name": "MASI",
+        "display_name": "MASI, 36, East Otterson Street, Ward 7, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "building": "MASI",
+          "house_number": "36",
+          "road": "East Otterson Street",
+          "city_district": "Ward 7",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7551894",
+          "42.7554274",
+          "-71.4591608",
+          "-71.4588911"
+        ]
+      },
+      {
+        "place_id": 362824393,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 208938235,
+        "lat": "42.7552866",
+        "lon": "-71.4592095",
+        "category": "amenity",
+        "type": "pub",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "The Pub Grainery",
+        "display_name": "The Pub Grainery, 36, East Otterson Street, Ward 7, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "amenity": "The Pub Grainery",
+          "house_number": "36",
+          "road": "East Otterson Street",
+          "city_district": "Ward 7",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7551526",
+          "42.7553669",
+          "-71.4593142",
+          "-71.4590800"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "295 Daniel Webster Highway",
+    "matches": [
+      {
+        "place_id": 361881509,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 146810275,
+        "lat": "42.7039161",
+        "lon": "-71.4434618",
+        "category": "shop",
+        "type": "cosmetics",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "shop",
+        "name": "Salon Centric",
+        "display_name": "Salon Centric, 295, Daniel Webster Highway, South Nashua, Ward 7, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "shop": "Salon Centric",
+          "house_number": "295",
+          "road": "Daniel Webster Highway",
+          "suburb": "South Nashua",
+          "city_district": "Ward 7",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7038090",
+          "42.7040446",
+          "-71.4436457",
+          "-71.4432867"
+        ]
+      },
+      {
+        "place_id": 361881053,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 146810277,
+        "lat": "42.7042599",
+        "lon": "-71.4435768",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "",
+        "display_name": "295, Daniel Webster Highway, South Nashua, Ward 7, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "house_number": "295",
+          "road": "Daniel Webster Highway",
+          "suburb": "South Nashua",
+          "city_district": "Ward 7",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7041067",
+          "42.7043493",
+          "-71.4437434",
+          "-71.4434221"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "55 Northeastern Boulevard",
+    "matches": [
+      {
+        "place_id": 362521932,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 254454032,
+        "lat": "42.7369370",
+        "lon": "-71.4823720",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "building",
+        "name": "Centorr Vacuum Industries",
+        "display_name": "Centorr Vacuum Industries, 55, Northeastern Boulevard, Ward 6, Nashua, Hillsborough County, New Hampshire, 03062, United States",
+        "address": {
+          "building": "Centorr Vacuum Industries",
+          "house_number": "55",
+          "road": "Northeastern Boulevard",
+          "city_district": "Ward 6",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03062",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7365330",
+          "42.7373411",
+          "-71.4828794",
+          "-71.4818646"
+        ]
+      },
+      {
+        "place_id": 425840314,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 254454030,
+        "lat": "42.7373185",
+        "lon": "-71.4831068",
+        "category": "amenity",
+        "type": "casino",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "Gate City Casino",
+        "display_name": "Gate City Casino, 55, Northeastern Boulevard, Ward 6, Nashua, Hillsborough County, New Hampshire, 03062, United States",
+        "address": {
+          "amenity": "Gate City Casino",
+          "house_number": "55",
+          "road": "Northeastern Boulevard",
+          "city_district": "Ward 6",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03062",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7369236",
+          "42.7377133",
+          "-71.4835965",
+          "-71.4826171"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "116 West Pearl Street",
+    "matches": [
+      {
+        "place_id": 363725472,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 179221580,
+        "lat": "42.7595147",
+        "lon": "-71.4668016",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "El Colima",
+        "display_name": "El Colima, 116, West Pearl Street, Ward 4, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "amenity": "El Colima",
+          "house_number": "116",
+          "road": "West Pearl Street",
+          "city_district": "Ward 4",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7593653",
+          "42.7596641",
+          "-71.4669416",
+          "-71.4666617"
+        ]
+      },
+      {
+        "place_id": 363421077,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 179221579,
+        "lat": "42.7594748",
+        "lon": "-71.4669622",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "116, West Pearl Street, Ward 4, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "house_number": "116",
+          "road": "West Pearl Street",
+          "city_district": "Ward 4",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7593254",
+          "42.7596242",
+          "-71.4671022",
+          "-71.4668223"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "138 Main Street",
+    "matches": [
+      {
+        "place_id": 363509874,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 179913165,
+        "lat": "42.7618409",
+        "lon": "-71.4653595",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "amenity",
+        "name": "Fuego Bar and Grill",
+        "display_name": "Fuego Bar and Grill, 138, Main Street, Ward 4, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "amenity": "Fuego Bar and Grill",
+          "house_number": "138",
+          "road": "Main Street",
+          "city_district": "Ward 4",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7617685",
+          "42.7619277",
+          "-71.4655526",
+          "-71.4651077"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "57 Factory Street",
+    "matches": [
+      {
+        "place_id": 363494149,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 180345105,
+        "lat": "42.7612769",
+        "lon": "-71.4674878",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 0.00005976729991602987,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "57, Factory Street, Ward 4, Nashua, Hillsborough County, New Hampshire, 03060, United States",
+        "address": {
+          "house_number": "57",
+          "road": "Factory Street",
+          "city_district": "Ward 4",
+          "city": "Nashua",
+          "county": "Hillsborough County",
+          "state": "New Hampshire",
+          "ISO3166-2-lvl4": "US-NH",
+          "postcode": "03060",
+          "country": "United States",
+          "country_code": "us"
+        },
+        "boundingbox": [
+          "42.7611462",
+          "42.7614116",
+          "-71.4676286",
+          "-71.4673778"
+        ]
+      }
+    ]
+  }
+]

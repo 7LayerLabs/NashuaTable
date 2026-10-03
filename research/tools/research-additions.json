@@ -1,0 +1,7 @@
+[
+{"name":"Jeannotte’s Market · Deli","address":"2 Courtland Street","cuisine":"American deli, sandwiches","phone":"6038820161","website":"https://jeannottesmarket.com/contact/","hoursText":"Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 08:00-18:00","dishes":["Italian sub","Potato salad"],"notes":"Published hours are market hours; deli ordering may finish earlier."},
+{"name":"The Bistro · Courtyard Nashua","address":"2200 Southwood Drive","cuisine":"American, café","phone":"6038809100","website":"https://www.marriott.com/en-us/hotels/mhtnc-courtyard-nashua/dining/","notes":"Inside Courtyard by Marriott. Phone is the hotel main line."},
+{"name":"California Burritos · Cellu Drive","address":"2 Cellu Drive","cuisine":"Mexican","phone":"6034176151","website":"https://californiaburritosnh.com/contact/","hoursText":"Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00"},
+{"name":"Bubbakoo’s Burritos","address":"341 Amherst Street","cuisine":"Mexican fusion","phone":"6038802484","website":"https://locations.bubbakoos.com/locations/nh/341-amherst-street","anchor":"nashua-49"},
+{"name":"CodeX B.A.R.","address":"29 Main Street","cuisine":"Cocktail bar","source":"https://hippopress.com/2026/09/cheers-to-summer/","hoursText":"Mo off; Tu-Sa 17:00-24:00; Su off","update":"nashua-19"}
+]

@@ -1,0 +1,6 @@
+import fs from 'node:fs';
+function change(p,fn){fs.writeFileSync(p,fn(fs.readFileSync(p,'utf8')))}
+change('scripts/expand-coverage.mjs',t=>t.replace('amherst|sunapee|cellu','amherst|sunapee|cellu|northwest|north west').replace('daniel webster|taggart|harold drive','daniel webster|taggart|harold drive|marmon').replace('kinsley|lake street|allds|palm street|pine street','kinsley|lake street|allds|palm street|pine street|ash street').replace('newIds:newlyAdded,districtMethod',"newIds:newlyAdded,latestPass:{beforeCount:266,added:roundTwo.length,ids:roundTwo.map(a=>'expanded-'+normalize(a.name).replaceAll(' ','-'))},districtMethod"));
+change('scripts/write-coverage.mjs',t=>t.replace('Expanded from 226 to 266 source-linked listings.','Expanded from 226 to ${b.restaurants.length} source-linked listings. The latest pass adds ${b.audit.latestPass.added} to the previous 266.').replace('## Forty additions','## ${added.length} additions across both passes'));
+change('scripts/core.test.mjs',t=>t.replace('assert.equal(bundle.audit.added,40);','assert.equal(bundle.audit.added,56);assert.equal(bundle.audit.latestPass.added,16);'));
+change('dist/index.html',t=>t.replace('The latest expansion adds 40 places and corrects CodeX’s location.','Two expansion passes add 56 places and correct CodeX’s location.'));

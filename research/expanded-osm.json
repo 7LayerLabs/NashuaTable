@@ -1,0 +1,5108 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-07-15T15:22:01Z",
+    "timestamp_areas_base": "2026-07-15T15:22:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 793807330,
+      "lat": 42.7617674,
+      "lon": -71.4608997,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "59",
+        "addr:postcode": "03060",
+        "addr:street": "Temple Street",
+        "amenity": "restaurant",
+        "name": "Collins Brothers Chowder"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1714829743,
+      "lat": 42.7285147,
+      "lon": -71.4471795,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "indian",
+        "name": "Kurry Masala Express",
+        "website": "http://kurrymasala.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2351793584,
+      "lat": 42.7749646,
+      "lon": -71.4900669,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "190",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "alt_name": "Dunkin' Donuts",
+        "amenity": "fast_food",
+        "brand": "Dunkin'",
+        "brand:wikidata": "Q847743",
+        "contact:website": "https://locations.dunkindonuts.com/en/nh/nashua/190-amherst-st/335574",
+        "cuisine": "donut;coffee_shop",
+        "drive_through": "yes",
+        "name": "Dunkin'",
+        "opening_hours": "05:00-20:00",
+        "phone": "+1 603-880-5352",
+        "ref": "335574",
+        "takeaway": "yes",
+        "website": "https://locations.dunkindonuts.com/en/nh/nashua/190-amherst-st/335574"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2381957720,
+      "lat": 42.7699617,
+      "lon": -71.4917812,
+      "tags": {
+        "alt_name": "Dunkin' Donuts",
+        "amenity": "fast_food",
+        "brand": "Dunkin'",
+        "brand:wikidata": "Q847743",
+        "contact:website": "https://locations.dunkindonuts.com/en/nh/nashua/103-broad-st/300254",
+        "cuisine": "donut;coffee_shop",
+        "fixme:atp": "Check if still exists. No corresponding ATP object.",
+        "name": "Dunkin'",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2408790483,
+      "lat": 42.7819059,
+      "lon": -71.5033872,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Kegler's Den"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2833952626,
+      "lat": 42.7806534,
+      "lon": -71.5170908,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "83",
+        "addr:postcode": "03063",
+        "addr:street": "Perimeter Road",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "name": "Midfield Cafe",
+        "opening_hours": "Mo-Su 07:00-14:00",
+        "phone": "+1 603 5940930",
+        "website": "http://www.midfieldcafe.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4295448814,
+      "lat": 42.710832,
+      "lon": -71.4429025,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "235",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q795454",
+        "cuisine": "coffee_shop",
+        "name": "Barnes & Noble Cafe",
+        "opening_hours": "Mo-Th 09:00-21:00; Fr,Sa 09:00-23:00; Su 10:00-21:00",
+        "operator": "Barnes & Noble",
+        "phone": "+1-603-888-0533",
+        "website": "https://www.barnesandnoble.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305086547,
+      "lat": 42.7015343,
+      "lon": -71.4375753,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "310",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "ice_cream",
+        "cuisine": "frozen_yogurt",
+        "level": "0",
+        "name": "Tutti Frutti",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+        "phone": "+1-603-888-5455",
+        "website": "http://tfyogurt.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305086559,
+      "lat": 42.7009235,
+      "lon": -71.4364439,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "310",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "addr:unit": "155",
+        "amenity": "fast_food",
+        "cuisine": "japanese",
+        "level": "0",
+        "name": "Sarku",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+        "phone": "+1-603-897-0888",
+        "website": "https://www.sarkujapan.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305086564,
+      "lat": 42.7012314,
+      "lon": -71.4362709,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "310",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "fast_food",
+        "brand": "Charleys Philly Steaks",
+        "brand:wikidata": "Q1066777",
+        "cuisine": "sandwich",
+        "drive_through": "no",
+        "level": "0",
+        "name": "Charleys Philly Steaks",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305086575,
+      "lat": 42.7010456,
+      "lon": -71.436596,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "310",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "fast_food",
+        "brand": "Orange Julius",
+        "brand:wikidata": "Q3355059",
+        "cuisine": "juice",
+        "level": "0",
+        "name": "Orange Julius",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+        "phone": "+1-603-888-4602",
+        "ref": "8524",
+        "takeaway": "yes",
+        "website": "https://www.orangejulius.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305086902,
+      "lat": 42.7009947,
+      "lon": -71.4363374,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "310",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "addr:unit": "144",
+        "amenity": "fast_food",
+        "branch": "Pheasant Lane Mall",
+        "brand": "Chick-fil-A",
+        "brand:wikidata": "Q491516",
+        "cuisine": "chicken",
+        "delivery": "no",
+        "drive_through": "yes",
+        "indoor_seating": "no",
+        "level": "0",
+        "name": "Chick-fil-A",
+        "opening_hours": "Mo-Sa 10:00-21:00",
+        "phone": "+1 603-891-1000",
+        "ref": "01075",
+        "takeaway": "yes",
+        "website": "https://www.chick-fil-a.com/locations/nh/pheasant-lane-mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305086908,
+      "lat": 42.7012459,
+      "lon": -71.4364044,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "310",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "fast_food",
+        "cuisine": "asian",
+        "level": "0",
+        "name": "China City",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+        "phone": "+1-603-888-0298"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305086914,
+      "lat": 42.7011622,
+      "lon": -71.4365959,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "310",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "fast_food",
+        "cuisine": "barbecue",
+        "drive_through": "no",
+        "level": "0",
+        "name": "Cibao Kitchen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305086932,
+      "lat": 42.7025031,
+      "lon": -71.4374461,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "310",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "restaurant",
+        "brand": "Blaze Pizza",
+        "brand:wikidata": "Q23016666",
+        "check_date": "2025-07-28",
+        "cuisine": "pizza",
+        "level": "1",
+        "name": "Blaze Pizza",
+        "old_name": "RadioShack"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305086942,
+      "lat": 42.7010571,
+      "lon": -71.4373945,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "310",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "level": "1",
+        "name": "The Candi Barrel",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+        "phone": "+1-603-888-1800",
+        "shop": "confectionery",
+        "website": "http://www.thecandibarrel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305086952,
+      "lat": 42.7012446,
+      "lon": -71.4365197,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "310",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "addr:unit": "109",
+        "amenity": "cafe",
+        "cuisine": "bubble_tea",
+        "level": "0",
+        "name": "Boba Milk Tea Bar",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305086954,
+      "lat": 42.7009422,
+      "lon": -71.4370744,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "310",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "cafe",
+        "cuisine": "smoothie",
+        "name": "Nature's Nectar",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 12:00-18:00",
+        "website": "https://naturesnectarsmoothies.wordpress.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305086958,
+      "lat": 42.7011061,
+      "lon": -71.4365975,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "310",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "fast_food",
+        "level": "0",
+        "name": "Appleseed",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+        "operator": "crepe",
+        "phone": "+1-603-888-4220"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305086961,
+      "lat": 42.7019206,
+      "lon": -71.4375399,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "310",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "fast_food",
+        "brand": "Auntie Anne's",
+        "brand:wikidata": "Q4822010",
+        "cuisine": "pretzel",
+        "level": "0",
+        "name": "Auntie Anne's",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+        "phone": "+1-603-888-0407",
+        "takeaway": "yes",
+        "website": "https://www.auntieannes.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4315866652,
+      "lat": 42.7024107,
+      "lon": -71.4428139,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "311",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "fast_food",
+        "brand": "Costco",
+        "brand:wikidata": "Q715583",
+        "cuisine": "hot_dog;pizza;sandwich",
+        "name": "Costco Food Court",
+        "opening_hours": "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00",
+        "phone": "+1-603-821-6051",
+        "takeaway": "yes",
+        "website": "https://www.costco.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4391346445,
+      "lat": 42.7766914,
+      "lon": -71.4903887,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "10",
+        "addr:postcode": "03064",
+        "addr:state": "NH",
+        "addr:street": "Saint Laurent Street",
+        "amenity": "restaurant",
+        "food": "Mo-We 11:00-22:30; Th-Sa 11:00-23:30; Su 11:00-22:00",
+        "name": "Ninety Nine",
+        "opening_hours": "Mo-We 11:00-23:00; Th-Sa 11:00-24:00; Su 11:00-22:00",
+        "phone": "+1-603-883-9998"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4394362817,
+      "lat": 42.7536979,
+      "lon": -71.4594127,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "300",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "alt_name": "Dunkin' Donuts",
+        "amenity": "fast_food",
+        "brand": "Dunkin'",
+        "brand:wikidata": "Q847743",
+        "check_date": "2016-09-10",
+        "cuisine": "donut;coffee_shop",
+        "drive_through": "yes",
+        "fax": "+1-603-595-8045",
+        "name": "Dunkin'",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
+        "phone": "+1-603-578-1382",
+        "ref": "358089",
+        "takeaway": "yes",
+        "website": "https://locations.dunkindonuts.com/en/nh/nashua/267-main-st/358089"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4396958347,
+      "lat": 42.7010031,
+      "lon": -71.4366138,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "310",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "fast_food",
+        "brand": "Dairy Queen",
+        "brand:wikidata": "Q1141226",
+        "cuisine": "ice_cream",
+        "level": "0",
+        "name": "Dairy Queen",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+        "phone": "+1 603-888-4602",
+        "ref": "8524",
+        "takeaway": "yes",
+        "website": "https://www.dairyqueen.com/locations/nh/nashua/pheasant-lane-mall/8524"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5412951239,
+      "lat": 42.7101413,
+      "lon": -71.441289,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "242",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "alt_name": "Dunkin' Donuts",
+        "amenity": "fast_food",
+        "brand": "Dunkin'",
+        "brand:wikidata": "Q847743",
+        "contact:website": "https://locations.dunkindonuts.com/en/nh/nashua/242-daniel-webster-highway/336790",
+        "cuisine": "donut;coffee_shop",
+        "drive_through": "no",
+        "name": "Dunkin'",
+        "opening_hours": "Mo-Su 05:00-22:00",
+        "phone": "+1-603-888-4154",
+        "ref": "336790",
+        "takeaway": "yes",
+        "website": "https://locations.dunkindonuts.com/en/nh/nashua/242-daniel-webster-highway/336790"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6146590416,
+      "lat": 42.7571174,
+      "lon": -71.4675148,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "43",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "West Hollis Street",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/809grill/",
+        "name": "809 Bar and Lounge",
+        "phone": "+1-603-943-1651"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7188768313,
+      "lat": 42.7928927,
+      "lon": -71.5216492,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "493",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "amenity": "cafe",
+        "brand": "Kung Fu Tea",
+        "brand:wikidata": "Q66023886",
+        "cuisine": "bubble_tea",
+        "name": "Kung Fu Tea",
+        "shop": "tea",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7188768314,
+      "lat": 42.7929537,
+      "lon": -71.5215825,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "493",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "India Palace",
+        "website": "https://www.indiapalacenh.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7188768316,
+      "lat": 42.7932349,
+      "lon": -71.5224813,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "495",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Ciao's Pizza",
+        "website": "http://www.ciaospizza.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7188768319,
+      "lat": 42.7933045,
+      "lon": -71.5226082,
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Sub Zero",
+        "brand:wikidata": "Q108413623",
+        "name": "Sub Zero",
+        "official_name": "Sub Zero Nitrogen Ice Cream"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8329225563,
+      "lat": 42.7928874,
+      "lon": -71.5216349,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "TKK Fried Chicken",
+        "brand:en": "TKK Fried Chicken",
+        "brand:wikidata": "Q15715284",
+        "brand:zh": "頂呱呱",
+        "cuisine": "chicken",
+        "name": "TKK Fried Chicken",
+        "name:en": "TKK Fried Chicken",
+        "name:zh": "頂呱呱",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8773566900,
+      "lat": 42.7577029,
+      "lon": -71.4641115,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "235",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "restaurant",
+        "delivery": "yes",
+        "name": "Zo's Roast Beef"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8773566901,
+      "lat": 42.7576267,
+      "lon": -71.4640844,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "241",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "fast_food",
+        "cuisine": "vietnamese",
+        "facebook": "http://www.facebook.com/SaigonsandwichNH/",
+        "name": "Saigon Sandwich",
+        "opening_hours": "Mo-Sa 11:00-20:00",
+        "phone": "+1-603-598-4700"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8773566911,
+      "lat": 42.7594624,
+      "lon": -71.464965,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Main Street Gyro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8773566914,
+      "lat": 42.7596457,
+      "lon": -71.4644612,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "212",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "name": "MT's Local",
+        "opening_hours": "Mo-Su 16:00-21:00; Fr,Sa 16:00-22:00",
+        "phone": "+1-603-595-9334",
+        "website": "https://www.mtslocal.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8773600737,
+      "lat": 42.7622042,
+      "lon": -71.4644362,
+      "tags": {
+        "amenity": "pub",
+        "name": "Liquid Therapy",
+        "website": "https://liquidtherapynh.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11097263528,
+      "lat": 42.7425467,
+      "lon": -71.4947037,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "239",
+        "addr:postcode": "03062",
+        "addr:state": "NH",
+        "addr:street": "Main Dunstable Road",
+        "alt_name": "Dunkin' Donuts",
+        "amenity": "fast_food",
+        "brand": "Dunkin'",
+        "brand:wikidata": "Q847743",
+        "contact:website": "https://locations.dunkindonuts.com/en/nh/nashua/239-main-dunstable-rd/351186",
+        "cuisine": "donut;coffee_shop",
+        "drive_through": "yes",
+        "name": "Dunkin'",
+        "opening_hours": "Mo-Sa 04:00-21:00; Su 05:00-21:00",
+        "phone": "+1 603-579-0800",
+        "ref": "351186",
+        "takeaway": "yes",
+        "website": "https://locations.dunkindonuts.com/en/nh/nashua/239-main-dunstable-rd/351186"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11280484770,
+      "lat": 42.7000691,
+      "lon": -71.4364419,
+      "tags": {
+        "addr:housenumber": "310",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "restaurant",
+        "brand": "Buffalo Wild Wings",
+        "brand:wikidata": "Q509255",
+        "cuisine": "wings",
+        "name": "Buffalo Wild Wings",
+        "short_name": "BW3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12105211281,
+      "lat": 42.7853122,
+      "lon": -71.506282,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "375",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "amenity": "fast_food",
+        "brand": "Tropical Smoothie Cafe",
+        "cuisine": "juice",
+        "name": "Tropical Smoothie Cafe",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-21:00",
+        "phone": "+16037136855",
+        "takeaway": "yes",
+        "website": "https://www.tropicalsmoothiecafe.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12106600443,
+      "lat": 42.7510591,
+      "lon": -71.4882083,
+      "tags": {
+        "addr:housenumber": "9",
+        "addr:street": "Simon Street",
+        "amenity": "restaurant",
+        "check_date": "2025-03-10",
+        "name": "Bobolas Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12168490879,
+      "lat": 42.7655313,
+      "lon": -71.4969004,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:street": "Coliseum Avenue",
+        "addr:unit": "1",
+        "amenity": "fast_food",
+        "check_date": "2024-11-13",
+        "cuisine": "sandwich",
+        "name": "Wrap City",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12195283230,
+      "lat": 42.7624512,
+      "lon": -71.4657743,
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "96",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "facebook": "http://www.facebook.com/AgaveAzulNashua/",
+        "name": "Casa Vieja",
+        "old_name": "Agave Azul",
+        "opening_hours": "Mo 00:00-01:00,11:00-22:00; Tu,We 11:00-22:00; Th 11:00-24:00; Fr-Su 00:00-01:00,11:00-24:00",
+        "phone": "+1-603-943-7240",
+        "website": "https://www.dinemexican.com/locations/new-hampshire/nashua-nh"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12339942934,
+      "lat": 42.7676657,
+      "lon": -71.4948968,
+      "tags": {
+        "addr:housenumber": "150",
+        "addr:street": "Broad Street",
+        "check_date": "2024-11-14",
+        "name": "Cruzin Cakes Shop",
+        "shop": "pastry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12610692635,
+      "lat": 42.701098,
+      "lon": -71.4361729,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Big Burrito"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12610692636,
+      "lat": 42.7010496,
+      "lon": -71.4362499,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Sbarro",
+        "brand:wikidata": "Q2589409",
+        "cuisine": "pizza",
+        "name": "Sbarro",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13902447202,
+      "lat": 42.7676938,
+      "lon": -71.4949393,
+      "tags": {
+        "addr:housenumber": "150",
+        "addr:postcode": "03063",
+        "addr:street": "Broad Street",
+        "contact:facebook": "SunflowerBakeryNH",
+        "contact:instagram": "sunflower_bakery_nh",
+        "email": "sunflowerbakerynh@gmail.com",
+        "name": "Sunflower Bakery & Cafe",
+        "opening_hours": "Sa-Su 08:00-15:00",
+        "shop": "bakery",
+        "website": "https://thesunflowerbakerycafe.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32285515,
+      "center": {
+        "lat": 42.7639002,
+        "lon": -71.4662584
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "48",
+        "addr:postcode": "03064",
+        "addr:street": "Main Street",
+        "amenity": "pub",
+        "building": "retail",
+        "building:levels": "1",
+        "building:material": "brick",
+        "drink:beer": "served",
+        "drink:liquor": "served",
+        "drink:wine": "served",
+        "name": "The Peddler's Daughter",
+        "roof:shape": "flat",
+        "website": "https://www.thepeddlersdaughter.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32285519,
+      "center": {
+        "lat": 42.7639919,
+        "lon": -71.4635237
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "1",
+        "addr:postcode": "03064",
+        "addr:street": "Nashua Drive",
+        "amenity": "restaurant",
+        "brand": "Margaritas",
+        "brand:wikidata": "Q6760185",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "Margaritas",
+        "official_name": "Margaritas Mexican Restaurant",
+        "website": "https://www.margs.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32285520,
+      "center": {
+        "lat": 42.7642161,
+        "lon": -71.4660669
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "42",
+        "addr:postcode": "03064",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "alt_name": "Dunkin' Donuts",
+        "amenity": "fast_food",
+        "brand": "Dunkin'",
+        "brand:wikidata": "Q847743",
+        "building": "yes",
+        "contact:website": "https://locations.dunkindonuts.com/en/nh/nashua/42-main-st/300590",
+        "cuisine": "donut;coffee_shop",
+        "drive_through": "no",
+        "name": "Dunkin'",
+        "opening_hours": "04:30-19:00",
+        "phone": "+1 603-318-3422",
+        "ref": "300590",
+        "takeaway": "yes",
+        "website": "https://locations.dunkindonuts.com/en/nh/nashua/42-main-st/300590"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32476666,
+      "center": {
+        "lat": 42.7696088,
+        "lon": -71.4811352
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "14A",
+        "addr:postcode": "03064",
+        "addr:street": "Broad Street",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Giovanni's",
+        "website": "https://www.giovannis.biz/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52733150,
+      "center": {
+        "lat": 42.7260443,
+        "lon": -71.4469865
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "141",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "alt_name": "Popeyes Lousiana Kitchen",
+        "amenity": "fast_food",
+        "brand": "Popeyes",
+        "brand:wikidata": "Q1330910",
+        "building": "yes",
+        "cuisine": "chicken",
+        "delivery": "yes",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Popeyes",
+        "official_name": "Popeyes Louisiana Kitchen",
+        "opening_hours": "07:00-23:00",
+        "phone": "+1 603-943-5197",
+        "takeaway": "yes",
+        "website": "https://www.popeyes.com/store-locator/store/restaurant_85596"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52734150,
+      "center": {
+        "lat": 42.70293,
+        "lon": -71.4405291
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "304",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "restaurant",
+        "brand": "Uno Pizzeria & Grill",
+        "brand:wikidata": "Q7897209",
+        "building": "yes",
+        "cuisine": "pizza",
+        "fax": "+1-603-891-2380",
+        "name": "Uno Pizzeria & Grill",
+        "opening_hours": "00:00-01:00,11:00-24:00",
+        "phone": "+1-603-888-6980",
+        "short_name": "Uno's",
+        "website": "https://www.unos.com/",
+        "wikipedia": "en:Uno Chicago Grill"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52734163,
+      "center": {
+        "lat": 42.7083253,
+        "lon": -71.4420859
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "255",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "05:00-23:00",
+        "phone": "+1 603-891-0419",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/us/en-us/location/2039.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52734165,
+      "center": {
+        "lat": 42.7077075,
+        "lon": -71.4418055
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "259",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "restaurant",
+        "building": "yes",
+        "check_date": "2024-07-18",
+        "cuisine": "italian",
+        "name": "Lui Lui",
+        "opening_hours": "Mo-Su 11:00-21:30; Fr,Sa 11:00-22:00",
+        "phone": "+1-603-888-2588",
+        "website": "https://www.luilui.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53256517,
+      "center": {
+        "lat": 42.7109418,
+        "lon": -71.4438769
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "8",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Spit Brook Road",
+        "amenity": "fast_food",
+        "brand": "Panera Bread",
+        "brand:wikidata": "Q7130852",
+        "building": "yes",
+        "cuisine": "sandwich;bakery",
+        "name": "Panera Bread",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "phone": "+1 603-891-2133",
+        "ref": "203416",
+        "short_name": "Panera",
+        "takeaway": "yes",
+        "website": "https://locations.panerabread.com/nh/nashua/8-spit-brook-road.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53256547,
+      "center": {
+        "lat": 42.7049876,
+        "lon": -71.4419784
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "285",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "restaurant",
+        "brand": "Chili's",
+        "brand:wikidata": "Q1072948",
+        "building": "yes",
+        "cuisine": "tex-mex",
+        "name": "Chili's",
+        "official_name": "Chili's Grill & Bar",
+        "opening_hours": "Mo-Su 11:00-23:00; Fr,Sa 11:00-24:00",
+        "phone": "+1-603-888-3200",
+        "website": "https://www.chilis.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53256579,
+      "center": {
+        "lat": 42.7089539,
+        "lon": -71.4430313
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "5",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Harold Drive",
+        "amenity": "restaurant",
+        "brand": "LongHorn Steakhouse",
+        "brand:wikidata": "Q3259007",
+        "building": "yes",
+        "cuisine": "steak_house",
+        "name": "LongHorn Steakhouse",
+        "opening_hours": "Mo-Su 11:00-22:00; Fr,Sa 11:00-23:00",
+        "phone": "+1-603-888-6900",
+        "website": "https://www.longhornsteakhouse.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53256593,
+      "center": {
+        "lat": 42.7252005,
+        "lon": -71.4464088
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "149",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "american",
+        "name": "Red Arrow Diner"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53332379,
+      "center": {
+        "lat": 42.7116546,
+        "lon": -71.440523
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "230",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "alt_name": "International House of Pancakes",
+        "amenity": "restaurant",
+        "brand": "IHOP",
+        "brand:wikidata": "Q1185675",
+        "building": "retail",
+        "cuisine": "breakfast;pancake",
+        "name": "IHOP",
+        "opening_hours": "Mo-Su 07:00-22:00; Fr,Sa 00:00-24:00",
+        "phone": "+1-603-546-0400",
+        "website": "https://www.ihop.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53332382,
+      "center": {
+        "lat": 42.7124211,
+        "lon": -71.4429131
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "221",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "addr:unit": "B",
+        "amenity": "restaurant",
+        "building": "retail",
+        "building:levels": "1",
+        "building:material": "brick",
+        "name": "Not Your Average Joe's",
+        "opening_hours": "Mo-Th 11:30-22:00; Fr-Sa 11:30-23:00; Su 11:30-21:00",
+        "phone": "+1-603-318-7777",
+        "roof:shape": "flat",
+        "website": "https://www.notyouraveragejoes.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53435421,
+      "center": {
+        "lat": 42.7164972,
+        "lon": -71.4432877
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "197",
+        "addr:postcode": "03060",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "sushi",
+        "name": "Takumi",
+        "opening_hours": "Mo-Th 11:45-21:30; Fr 11:45-22:30; Sa 12:00-22:30; Su 12:00-21:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53435422,
+      "center": {
+        "lat": 42.7159864,
+        "lon": -71.443222
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "199",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "addr:unit": "S",
+        "amenity": "restaurant",
+        "brand": "Pizza Hut",
+        "brand:wikidata": "Q191615",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Pizza Hut",
+        "opening_hours": "Mo-Su 11:00-22:00; Fr,Sa 11:00-23:00",
+        "phone": "+1 603-888-3553",
+        "website": "https://locations.pizzahut.com/nh/nashua/199-daniel-webster-hwy-s"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53786130,
+      "center": {
+        "lat": 42.7180051,
+        "lon": -71.4418485
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "4",
+        "addr:postcode": "03060",
+        "addr:street": "Taggart Drive",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "La Hacienda Del Rio",
+        "opening_hours": "Mo-We 11:30-21:00; Th-Sa 11:30-22:00; Su 12:00-20:30",
+        "phone": "+1-603-888-3353",
+        "website": "https://lahanh.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 54582442,
+      "center": {
+        "lat": 42.7284708,
+        "lon": -71.4486226
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "109",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "alt_name": "Dunkin' Donuts",
+        "amenity": "fast_food",
+        "brand": "Dunkin'",
+        "brand:wikidata": "Q847743",
+        "building": "yes",
+        "contact:website": "https://locations.dunkindonuts.com/en/nh/nashua/109-daniel-webster-hwy/300976",
+        "cuisine": "donut;coffee_shop",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Dunkin'",
+        "opening_hours": "04:00-22:00",
+        "phone": "+1-603-891-9674",
+        "ref": "300976",
+        "takeaway": "yes",
+        "website": "https://locations.dunkindonuts.com/en/nh/nashua/109-daniel-webster-hwy/300976"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55552573,
+      "center": {
+        "lat": 42.737833,
+        "lon": -71.4583236
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "7",
+        "addr:postcode": "03060",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "ice_cream;sausage",
+        "name": "Hayward's Ice Cream",
+        "website": "https://haywardsicecream.com/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55552643,
+      "center": {
+        "lat": 42.729347,
+        "lon": -71.4479298
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "110",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "fast_food",
+        "brand": "Papa John's",
+        "brand:wikidata": "Q2759586",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Papa John's",
+        "opening_hours": "Mo-Th 10:00-01:00; Fr-Sa 10:00-02:00; Su 10:00-01:00",
+        "phone": "+1 603-888-5005",
+        "takeaway": "yes",
+        "website": "https://locations.papajohns.com/united-states/nh/03060/nashua/110-daniel-webster-hwy"
+      }
+    },
+    {
+      "type": "way",
+      "id": 71368178,
+      "center": {
+        "lat": 42.759338,
+        "lon": -71.457826
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "46",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "East Hollis Street",
+        "amenity": "fast_food",
+        "brand": "Wendy's",
+        "brand:wikidata": "Q550258",
+        "building": "retail",
+        "building:levels": "1",
+        "building:material": "brick",
+        "check_date": "2024-10-21",
+        "cuisine": "burger",
+        "name": "Wendy's",
+        "opening_hours": "09:00-22:00",
+        "opening_hours:drive_through": "Mo-Th 06:30-01:00; Fr-Sa 06:30-02:00; Su 06:30-01:00",
+        "phone": "+1 603-594-8838",
+        "ref": "8200",
+        "roof:shape": "flat",
+        "takeaway": "yes",
+        "website": "https://locations.wendys.com/united-states/nh/nashua/46-e-hollis-street"
+      }
+    },
+    {
+      "type": "way",
+      "id": 77083034,
+      "center": {
+        "lat": 42.7607536,
+        "lon": -71.463319
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "47",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "East Pearl Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Taj India",
+        "opening_hours": "Mo-Sa 11:30-15:00,17:00-21:30; Su 12:00-15:00,17:00-21:30",
+        "phone": "+1-603-864-8586",
+        "website": "https://tajindia.co/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 77083137,
+      "center": {
+        "lat": 42.760685,
+        "lon": -71.4637689
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "51",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "East Pearl Street",
+        "building": "yes",
+        "check_date": "2026-03-11",
+        "name": "Crosby Bakery",
+        "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-17:00",
+        "phone": "+1-603-882-1851",
+        "shop": "bakery",
+        "website": "https://www.crosbybakerynh.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 78126801,
+      "center": {
+        "lat": 42.7591999,
+        "lon": -71.4586724
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "40",
+        "addr:postcode": "03060",
+        "addr:street": "East Hollis Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "check_date": "2024-10-21",
+        "cuisine": "pizza",
+        "name": "Nashua House of Pizza"
+      }
+    },
+    {
+      "type": "way",
+      "id": 78126810,
+      "center": {
+        "lat": 42.7588377,
+        "lon": -71.4572366
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "45",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "East Hollis Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "building": "yes",
+        "check_date": "2024-10-21",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "05:00-23:00",
+        "phone": "+1 603-880-3050",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/us/en-us/location/10544.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 79980082,
+      "center": {
+        "lat": 42.7620394,
+        "lon": -71.4506881
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "200",
+        "addr:postcode": "03060",
+        "addr:street": "Temple Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Temple Street Diner",
+        "website": "https://www.templestreetdiner.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 79980086,
+      "center": {
+        "lat": 42.7613666,
+        "lon": -71.4489907
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "119",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "East Hollis Street",
+        "alt_name": "Dunkin' Donuts",
+        "amenity": "fast_food",
+        "brand": "Dunkin'",
+        "brand:wikidata": "Q847743",
+        "building": "yes",
+        "contact:website": "https://locations.dunkindonuts.com/en/nh/nashua/119-east-hollis-st/336789",
+        "cuisine": "donut;coffee_shop",
+        "drive_through": "yes",
+        "name": "Dunkin'",
+        "opening_hours": "03:30-20:00",
+        "phone": "+1 603-324-8160",
+        "ref": "336789",
+        "takeaway": "yes",
+        "website": "https://locations.dunkindonuts.com/en/nh/nashua/119-east-hollis-st/336789"
+      }
+    },
+    {
+      "type": "way",
+      "id": 82342600,
+      "center": {
+        "lat": 42.7647628,
+        "lon": -71.4647849
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "4",
+        "addr:postcode": "03064",
+        "addr:street": "Canal Street",
+        "amenity": "pub",
+        "building": "yes",
+        "drink:beer": "served",
+        "name": "Penuche's Ale House"
+      }
+    },
+    {
+      "type": "way",
+      "id": 90479213,
+      "center": {
+        "lat": 42.7912084,
+        "lon": -71.4694734
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "185",
+        "addr:postcode": "03064",
+        "addr:street": "Concord Street",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "ice_cream",
+        "name": "The Big 1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 103064352,
+      "center": {
+        "lat": 42.7895701,
+        "lon": -71.5155997
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "449",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Pig Tale",
+        "opening_hours": "Tu-Sa 11:30-15:00,16:30+; Su 12:00-20:00",
+        "outdoor_seating": "no",
+        "phone": "+1-603-864-8740",
+        "takeaway": "yes",
+        "website": "https://pigtalepizza.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 105821534,
+      "center": {
+        "lat": 42.798756,
+        "lon": -71.5342307
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "580",
+        "addr:postcode": "03063",
+        "addr:street": "Amherst Street",
+        "amenity": "restaurant",
+        "brand": "Texas Roadhouse",
+        "brand:wikidata": "Q7707945",
+        "building": "yes",
+        "cuisine": "steak_house",
+        "name": "Texas Roadhouse",
+        "website": "https://www.texasroadhouse.com/store-sites/restaurant-detail/nh-nashua/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 115436937,
+      "center": {
+        "lat": 42.7923749,
+        "lon": -71.5228965
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "494",
+        "addr:postcode": "03063",
+        "addr:street": "Amherst Street",
+        "amenity": "fast_food",
+        "brand": "D'Angelo Grilled Sandwiches",
+        "brand:wikidata": "Q5203069",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "name": "D'Angelo Grilled Sandwiches",
+        "takeaway": "yes",
+        "website": "https://www.dangelos.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 116519330,
+      "center": {
+        "lat": 42.7325501,
+        "lon": -71.4755808
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "3",
+        "addr:postcode": "03062",
+        "addr:state": "NH",
+        "addr:street": "Northeastern Boulevard",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 05:30-22:00; We 06:30-22:00",
+        "phone": "+1 603-821-3099",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/us/en-us/location/21757.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 116979256,
+      "center": {
+        "lat": 42.7662495,
+        "lon": -71.4943843
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "16",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Gusabel Avenue",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "The Lucky Moose Casino & Tavern",
+        "opening_hours": "Mo-Su 11:00-1:00",
+        "phone": "+1 603-864-0175",
+        "website": "https://www.luckymoosecasino.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 116979303,
+      "center": {
+        "lat": 42.7651833,
+        "lon": -71.494368
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "34",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Gusabel Avenue",
+        "amenity": "restaurant",
+        "brand": "Denny's",
+        "brand:wikidata": "Q1189695",
+        "building": "yes",
+        "building:levels": "1",
+        "check_date": "2024-09-10",
+        "cuisine": "american",
+        "name": "Denny's",
+        "opening_hours": "24/7",
+        "phone": "+1-603-883-6165",
+        "roof:shape": "hipped",
+        "website": "https://www.dennys.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 116979306,
+      "center": {
+        "lat": 42.7669576,
+        "lon": -71.4963248
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "10",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Coliseum Avenue",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "building": "yes",
+        "building:levels": "1",
+        "building:material": "plaster",
+        "check_date": "2024-09-10",
+        "contact:website": "https://www.starbucks.com/store-locator/store/14501/nashua-exit-6-coliseum-ave-10-coliseum-avenue-nashua-nh-030633236-us",
+        "cuisine": "coffee_shop",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:00-22:00; Sa,Su 05:30-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-603-597-4761",
+        "roof:shape": "flat",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 116979332,
+      "center": {
+        "lat": 42.766554,
+        "lon": -71.4945619
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "14",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Gusabel Avenue",
+        "amenity": "fast_food",
+        "brand": "Wendy's",
+        "brand:wikidata": "Q550258",
+        "building": "yes",
+        "check_date": "2024-09-10",
+        "cuisine": "burger",
+        "drive_through": "Mo-Fr 00:00-01:00,10:00-24:00; Sa,Su 00:00-02:00,10:00-24:00",
+        "name": "Wendy's",
+        "opening_hours": "06:30-10:30",
+        "phone": "+1 603-577-8719",
+        "ref": "9523",
+        "takeaway": "yes",
+        "website": "https://locations.wendys.com/united-states/nh/nashua/14-gusabel-ave"
+      }
+    },
+    {
+      "type": "way",
+      "id": 121870308,
+      "center": {
+        "lat": 42.7579171,
+        "lon": -71.4643663
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "233",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Caribbean Breeze",
+        "website": "https://caribbeanbreeze-restaurant.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 124014579,
+      "center": {
+        "lat": 42.7853854,
+        "lon": -71.5107378
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "406",
+        "addr:postcode": "03063",
+        "addr:street": "Amherst Street",
+        "amenity": "restaurant",
+        "brand": "Bertucci's",
+        "brand:wikidata": "Q4895917",
+        "building": "yes",
+        "check_date": "2020-12-11",
+        "cuisine": "pizza;italian",
+        "name": "Bertucci's",
+        "website": "https://www.bertuccis.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 135937784,
+      "center": {
+        "lat": 42.7646503,
+        "lon": -71.4943588
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "44",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Gusabel Avenue",
+        "amenity": "restaurant",
+        "building": "yes",
+        "check_date": "2024-09-10",
+        "cuisine": "chinese",
+        "delivery": "yes",
+        "name": "Haluwa",
+        "opening_hours": "Mo 11:30-22:00; Tu-Th 11:30-24:00; Fr 00:00-00:30,11:30-24:00; Sa,Su 00:00-01:00,11:30-24:00",
+        "phone": "+1-603-883-6662",
+        "website": "http://www.haluwarestaurant.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 135937796,
+      "center": {
+        "lat": 42.7643319,
+        "lon": -71.4943348
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "48",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Gusabel Avenue",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "1",
+        "building:material": "cement_block",
+        "check_date": "2024-09-10",
+        "cuisine": "mexican",
+        "name": "Shorty's",
+        "phone": "+1-603-882-4070",
+        "website": "https://shortysmex.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 146701672,
+      "center": {
+        "lat": 42.7823227,
+        "lon": -71.503926
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "350",
+        "addr:postcode": "03063",
+        "addr:street": "Amherst Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "asian",
+        "name": "Grand Buffet"
+      }
+    },
+    {
+      "type": "way",
+      "id": 146701689,
+      "center": {
+        "lat": 42.7831764,
+        "lon": -71.5035469
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "341",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "addr:unit": "1",
+        "amenity": "fast_food",
+        "branch": "Greenfall Marketplace",
+        "brand": "Five Guys",
+        "brand:wikidata": "Q1131810",
+        "building": "yes",
+        "check_date:opening_hours": "2021-07-31",
+        "cuisine": "burger",
+        "name": "Five Guys",
+        "official_name": "Five Guys Burgers and Fries",
+        "opening_hours": "11:00-22:00",
+        "phone": "+1 603-589-7881",
+        "takeaway": "yes",
+        "website": "https://www.fiveguys.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 146810246,
+      "center": {
+        "lat": 42.7034466,
+        "lon": -71.4429344
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "295",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "addr:unit": "6A",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "facebook": "http://www.facebook.com/NashuaBiryanipot/",
+        "name": "Biryani Pot",
+        "opening_hours": "Mo-Fr 11:30-14:30,17:00-22:00; Sa 11:30-15:00,17:00-22:00; Su 11:30-15:30,17:00-22:00",
+        "phone": "+1-603-888-6003",
+        "website": "http://www.biryanipotnashua.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 146810277,
+      "center": {
+        "lat": 42.704228,
+        "lon": -71.4435828
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "295",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "addr:unit": "12",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "asian",
+        "fax": "+1-603-888-7899",
+        "name": "Shanghai Osaka",
+        "opening_hours": "Mo-Su 11:30-22:00; Fr,Sa 11:30-23:00",
+        "phone": "+1-603-888-7999",
+        "phone:alternate": "+1-603-888-1899",
+        "website": "http://shanghaiosaka.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 157474285,
+      "center": {
+        "lat": 42.7536988,
+        "lon": -71.4616686
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "300",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "addr:unit": "OP3",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "Burger King",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 07:00-22:00",
+        "phone": "+1 603-889-3666",
+        "ref": "14809",
+        "takeaway": "yes",
+        "website": "https://www.bk.com/store-locator/store/restaurant_8860"
+      }
+    },
+    {
+      "type": "way",
+      "id": 157474291,
+      "center": {
+        "lat": 42.7540723,
+        "lon": -71.4618521
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "290",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "fast_food",
+        "branch": "Nashua Main St",
+        "brand": "Wingstop",
+        "brand:wikidata": "Q8025339",
+        "building": "yes",
+        "cuisine": "wings",
+        "name": "Wingstop",
+        "opening_hours": "11:00-23:00",
+        "phone": "+1 603-417-3850",
+        "ref": "12041",
+        "takeaway": "yes",
+        "website": "https://order.wingstop.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 157474294,
+      "center": {
+        "lat": 42.752138,
+        "lon": -71.4609531
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "300",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "fast_food",
+        "brand": "Taco Bell",
+        "brand:wikidata": "Q752941",
+        "building": "yes",
+        "cuisine": "tex-mex",
+        "drive_through": "yes",
+        "name": "Taco Bell",
+        "opening_hours": "00:00-03:00,07:00-24:00",
+        "phone": "+1-603-886-2859",
+        "takeaway": "yes",
+        "website": "https://locations.tacobell.com/nh/nashua/300-main-street.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 157800011,
+      "center": {
+        "lat": 42.726832,
+        "lon": -71.4475737
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "139",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "fax": "+1-603-891-0178",
+        "name": "La Carreta",
+        "opening_hours": "Mo-Th 11:00-14:30,17:00-22:00; Fr 11:00-23:00; Sa 12:00-23:00; Su 12:00-22:00",
+        "phone": "+1-603-891-0055",
+        "website": "https://lacarretamex.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 158114979,
+      "center": {
+        "lat": 42.7511681,
+        "lon": -71.4863984
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "315",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "West Hollis Street",
+        "alt_name": "Dunkin' Donuts",
+        "amenity": "fast_food",
+        "brand": "Dunkin'",
+        "brand:wikidata": "Q847743",
+        "building": "retail",
+        "building:levels": "1",
+        "building:material": "wood",
+        "check_date": "2025-07-23",
+        "contact:website": "https://locations.dunkindonuts.com/en/nh/nashua/315-west-hollis-st/338939",
+        "cuisine": "donut;coffee_shop",
+        "drive_through": "yes",
+        "name": "Dunkin'",
+        "opening_hours": "24/7",
+        "phone": "+1 603-889-0543",
+        "ref": "338939",
+        "roof:shape": "gabled",
+        "takeaway": "yes",
+        "website": "https://locations.dunkindonuts.com/en/nh/nashua/315-west-hollis-st/338939"
+      }
+    },
+    {
+      "type": "way",
+      "id": 158115093,
+      "center": {
+        "lat": 42.7487276,
+        "lon": -71.4852207
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "189",
+        "addr:postcode": "03060",
+        "addr:street": "Kinsley Street",
+        "amenity": "restaurant",
+        "building": "house",
+        "building:levels": "2",
+        "building:material": "wood",
+        "check_date": "2024-10-18",
+        "cuisine": "brazilian",
+        "name": "Brtasty",
+        "opening_hours": "10:00-21:00",
+        "phone": "+1 603-718-0284",
+        "roof:shape": "gabled",
+        "website": "https://www.brtastyfood.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 159265406,
+      "center": {
+        "lat": 42.7064788,
+        "lon": -71.4405721
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "274",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mediterranean",
+        "name": "Maza",
+        "opening_hours": "Mo-Sa 11:00-21:00; Su 11:00-20:00",
+        "phone": "+1-603-888-7500",
+        "website": "https://www.mazamedgrill.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 159370441,
+      "center": {
+        "lat": 42.7288924,
+        "lon": -71.4472724
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "112",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "opening_hours": "Mo-Fr 07:00-24:00; Sa 08:00-26:00; Su 09:00-24:00",
+        "phone": "+1 603-891-1466",
+        "takeaway": "yes",
+        "website": "https://restaurants.subway.com/united-states/nh/nashua/112-daniel-webster-hwy"
+      }
+    },
+    {
+      "type": "way",
+      "id": 159370446,
+      "center": {
+        "lat": 42.7201199,
+        "lon": -71.4416269
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "166",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "japanese",
+        "delivery": "no",
+        "name": "Sakura Asian Bistro",
+        "opening_hours": "Mo-Th 11:30-21:30; Fr-Sa 11:30-22:30; Su 12:00 21:30",
+        "phone": "+1-603-589-9815",
+        "website": "https://www.sakuranashuanh.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 160181508,
+      "center": {
+        "lat": 42.7506916,
+        "lon": -71.4601248
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "300",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "building": "yes",
+        "check_date": "2016-09-10",
+        "cuisine": "chicken",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "KFC",
+        "name:en": "KFC",
+        "name:fr": "PFK",
+        "opening_hours": "10:30-23:00",
+        "phone": "+1-603-883-6055",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161930778,
+      "center": {
+        "lat": 42.711849,
+        "lon": -71.4439117
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "225",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "alt_name": "Chipotle Mexican Grill",
+        "amenity": "fast_food",
+        "brand": "Chipotle",
+        "brand:wikidata": "Q465751",
+        "building": "yes",
+        "contact:website": "https://chipotle.com/",
+        "cuisine": "mexican",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "yes",
+        "name": "Chipotle",
+        "official_name": "Chipotle Mexican Grill",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "phone": "+1 603-888-0889",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161930781,
+      "center": {
+        "lat": 42.7077719,
+        "lon": -71.4426827
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "257",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "alt_name": "HoneyBaked Ham",
+        "amenity": "fast_food",
+        "brand": "Honey Baked Ham",
+        "brand:wikidata": "Q5893363",
+        "building": "yes",
+        "contact:website": "https://www.honeybaked.com/stores/7401",
+        "cuisine": "american",
+        "name": "Honey Baked Ham",
+        "official_name": "The Honey Baked Ham Company",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-18:00; Su 11:00-17:00",
+        "phone": "+1-603-888-6800",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161930789,
+      "center": {
+        "lat": 42.7088059,
+        "lon": -71.4435426
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "7",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Harold Drive",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "italian",
+        "name": "Pizzico",
+        "opening_hours": "Mo-Th 11:00-22:00; Fr,Sa 11:00-23:00; Su 12:00-21:00",
+        "phone": "+1-603-897-0696",
+        "website": "https://www.pizzicorestaurant.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 164880438,
+      "center": {
+        "lat": 42.7798031,
+        "lon": -71.4982367
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "283",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "Burger King",
+        "opening_hours": "Mo-Sa 06:00-24:00; Su 07:00-24:00",
+        "phone": "+1 603-889-6403",
+        "ref": "1261",
+        "takeaway": "yes",
+        "website": "https://www.bk.com/store-locator/store/restaurant_647"
+      }
+    },
+    {
+      "type": "way",
+      "id": 169662098,
+      "center": {
+        "lat": 42.7642774,
+        "lon": -71.4599407
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "56",
+        "addr:postcode": "03064",
+        "addr:street": "Canal Street",
+        "amenity": "bar",
+        "building": "yes",
+        "drink:beer": "served",
+        "drink:liquor": "served",
+        "drink:wine": "served",
+        "facebook": "http://www.facebook.com/pages/Backstage-Bar-Grille/255190421163659",
+        "name": "Backstage Bar & Grille",
+        "website": "http://www.backstagenashua.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 169669288,
+      "center": {
+        "lat": 42.7643876,
+        "lon": -71.4633617
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "25",
+        "addr:postcode": "03064",
+        "addr:street": "Canal Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "caribbean",
+        "name": "El Tipico"
+      }
+    },
+    {
+      "type": "way",
+      "id": 169669300,
+      "center": {
+        "lat": 42.7644236,
+        "lon": -71.4640005
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "13",
+        "addr:postcode": "03064",
+        "addr:street": "Canal Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Mint Cafe",
+        "phone": "+1-603-886-0669",
+        "website": "https://mintcafenashua.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 169669302,
+      "center": {
+        "lat": 42.7644107,
+        "lon": -71.4613051
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "34",
+        "addr:postcode": "03064",
+        "addr:street": "Canal Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "colombian",
+        "name": "Rincon Colombiano"
+      }
+    },
+    {
+      "type": "way",
+      "id": 169669303,
+      "center": {
+        "lat": 42.7643587,
+        "lon": -71.4607183
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "42",
+        "addr:postcode": "03064",
+        "addr:street": "Canal Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "brazilian",
+        "drink:beer": "served",
+        "name": "Sabor Brasil"
+      }
+    },
+    {
+      "type": "way",
+      "id": 169669304,
+      "center": {
+        "lat": 42.7644082,
+        "lon": -71.4608628
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "40",
+        "addr:postcode": "03064",
+        "addr:street": "Canal Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "La Guera",
+        "phone": "+1-603-595-2890"
+      }
+    },
+    {
+      "type": "way",
+      "id": 169787920,
+      "center": {
+        "lat": 42.7649103,
+        "lon": -71.4663137
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "28",
+        "addr:postcode": "03064",
+        "addr:street": "Railroad Square",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Five Dragons"
+      }
+    },
+    {
+      "type": "way",
+      "id": 169787923,
+      "center": {
+        "lat": 42.7643992,
+        "lon": -71.4653569
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "14",
+        "addr:postcode": "03064",
+        "addr:street": "Railroad Square",
+        "amenity": "restaurant",
+        "building": "retail",
+        "building:levels": "1",
+        "building:material": "brick",
+        "cuisine": "pizza",
+        "drink:beer": "served",
+        "drink:liquor": "served",
+        "drink:wine": "served",
+        "name": "Portland Pie Company",
+        "roof:shape": "gabled",
+        "website": "https://www.portlandpie.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 169911563,
+      "center": {
+        "lat": 42.7650566,
+        "lon": -71.4667548
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "9",
+        "addr:postcode": "03064",
+        "addr:street": "Clinton Street",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "building": "yes",
+        "cuisine": "american",
+        "drink:beer": "served",
+        "drink:liquor": "served",
+        "drink:wine": "served",
+        "name": "Fody's Tavern",
+        "website": "https://fodystavern.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 169911566,
+      "center": {
+        "lat": 42.7648462,
+        "lon": -71.4667487
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "35",
+        "addr:postcode": "03064",
+        "addr:street": "Railroad Square",
+        "amenity": "cafe",
+        "building": "yes",
+        "diet:vegetarian": "limited",
+        "name": "Riverwalk Cafe & Coffee House",
+        "opening_hours": "Mo-Su 07:00-15:00",
+        "phone": "+1 603 578 0200",
+        "website": "https://www.riverwalknashua.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 169915238,
+      "center": {
+        "lat": 42.7645239,
+        "lon": -71.4673419
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "23",
+        "addr:postcode": "03064",
+        "addr:street": "Main Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Sopranos Pizzeria",
+        "phone": "+1-603-880-0443",
+        "website": "https://www.sopranosnashua.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 178838565,
+      "center": {
+        "lat": 42.7411934,
+        "lon": -71.4950938
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "264",
+        "addr:postcode": "03062",
+        "addr:street": "Main Dunstable Road",
+        "amenity": "restaurant",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2024-08-20",
+        "contact:facebook": "https://www.facebook.com/ChristophersSubsPizza/",
+        "cuisine": "pizza;sandwich",
+        "description": "Christopher's Subs & Pizza has been a beloved establishment in Nashua, NH, since 1977, serving up mouthwatering pizzas, flavorful subs, fresh salads, and a delightful kid's menu. Our menu features a variety of options including pizza by the slice & more.",
+        "email": "christopherssubsandpizza@gmail.com",
+        "mobile": "+1 978-886-3939",
+        "name": "Christopher's Subs & Pizza",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:samsung_pay": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 603-883-2362",
+        "roof:shape": "flat",
+        "website": "https://christophers-nashua.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 178840676,
+      "center": {
+        "lat": 42.7426052,
+        "lon": -71.4935545
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "240",
+        "addr:postcode": "03062",
+        "addr:street": "Main Dunstable Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Club Social"
+      }
+    },
+    {
+      "type": "way",
+      "id": 179221568,
+      "center": {
+        "lat": 42.7595868,
+        "lon": -71.4680096
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "147",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "West Pearl Street",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Courthouse Pizza",
+        "phone": "+1-603-882-7200",
+        "website": "http://www.courthousepizzanh.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 179221575,
+      "center": {
+        "lat": 42.7598501,
+        "lon": -71.4669458
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "113",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "West Pearl Street",
+        "addr:unit": "2",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:facebook": "PunThaiKitchen",
+        "cuisine": "thai",
+        "name": "PunThai Kitchen",
+        "phone": "+1-603-417-7099",
+        "website": "https://punthaikitchen.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 179221580,
+      "center": {
+        "lat": 42.7595147,
+        "lon": -71.4668017
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "116",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "West Pearl Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "El Colima",
+        "opening_hours": "Mo 11:00-21:00; We,Th 11:00-22:00; Fr 11:00-24:00; Sa 00:00-01:00,11:00-24:00; Su 00:00-01:00,11:00-21:00",
+        "phone": "+1-603-889-8226",
+        "website": "http://elcolima.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 179221592,
+      "center": {
+        "lat": 42.7603752,
+        "lon": -71.4693808
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "101",
+        "addr:postcode": "03060",
+        "addr:street": "Factory Street",
+        "amenity": "restaurant",
+        "building": "retail",
+        "building:levels": "1",
+        "building:material": "wood",
+        "capacity": "25",
+        "check_date": "2024-10-22",
+        "cuisine": "mexican",
+        "drink:beer": "served",
+        "drink:liquor": "served",
+        "name": "California Burritos",
+        "opening_hours": "Su-Th 11:00-21:00, Fr-Sa 11:00-22:00",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "roof:shape": "flat",
+        "takeaway": "yes",
+        "website": "https://www.facebook.com/CaliforniaBurritosNH/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 179388466,
+      "center": {
+        "lat": 42.7569338,
+        "lon": -71.4673238
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "44",
+        "addr:postcode": "03060",
+        "addr:street": "West Hollis Street",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Jack's Pizza",
+        "not:brand:wikidata": "Q6110826",
+        "phone": "+1-603-880-4637",
+        "website": "http://www.jackspizzanashua.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 179732425,
+      "center": {
+        "lat": 42.7625932,
+        "lon": -71.4656756
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "90",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "thai",
+        "name": "Giant of Siam",
+        "opening_hours": "Mo-Th 11:30-15:00,17:00-21:00; Fr 11:30-15:00,17:00-22:00; Sa 17:00-22:00",
+        "phone": "+1-603-595-2222",
+        "website": "https://www.giantofsiam.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 179804202,
+      "center": {
+        "lat": 42.7166239,
+        "lon": -71.505748
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "9",
+        "addr:postcode": "03062",
+        "addr:street": "Merrit Parkway",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Family Pizza & Roast Beef",
+        "website": "http://familypizzarb.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 179913141,
+      "center": {
+        "lat": 42.7618464,
+        "lon": -71.4650307
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "8",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Temple Street",
+        "amenity": "pub",
+        "building": "yes",
+        "facebook": "http://www.facebook.com/ThirstyTurtleTavernNashua/",
+        "name": "Thirsty Turtle",
+        "opening_hours": "Mo-Th 00:00-01:00,16:00-24:00; Fr-Su 00:00-01:00,12:00-24:00",
+        "phone": "+1-603-402-4136"
+      }
+    },
+    {
+      "type": "way",
+      "id": 179913151,
+      "center": {
+        "lat": 42.7621453,
+        "lon": -71.4662995
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "97",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "building": "yes",
+        "cuisine": "pub",
+        "name": "The Flight Center",
+        "opening_hours": "Mo-Th 11:00-22:00; Fr,Sa 11:00-24:00; Su 11:00-20:00",
+        "phone": "+1-603-417-6184",
+        "smoking": "no",
+        "website": "https://www.flightcenterbc.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 179913153,
+      "center": {
+        "lat": 42.7625708,
+        "lon": -71.4663682
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "85",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Espresso Pizza",
+        "opening_hours": "Mo-Th 11:00-22:00; Fr 11:00-24:00; Sa 00:00-02:00,11:00-24:00; Su 00:00-02:00,12:00-22:00",
+        "phone": "+1-603-889-9826",
+        "website": "http://espressopizzaonline.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 179913162,
+      "center": {
+        "lat": 42.7618435,
+        "lon": -71.4661328
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "121",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "building": "yes",
+        "drink:beer": "served",
+        "drink:liquor": "served",
+        "drink:wine": "served",
+        "facebook": "http://www.facebook.com/TheNashuaGarden",
+        "name": "Nashua Garden",
+        "opening_hours": "00:00-01:00,11:00-24:00",
+        "phone": "+1-603-886-7363",
+        "website": "https://sites.google.com/site/thenashuagarden/welcome"
+      }
+    },
+    {
+      "type": "way",
+      "id": 179913165,
+      "center": {
+        "lat": 42.7618481,
+        "lon": -71.4653301
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "138",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "caribbean",
+        "facebook": "http://www.facebook.com/fuegonashua/",
+        "name": "Fuego Bar and Grill",
+        "opening_hours": "Mo 09:00-17:00; Tu 11:00-21:00; We 09:00-21:00; Th 11:00-23:30; Fr 11:00-24:00; Sa 00:00-01:00,11:00-24:00; Su 00:00-01:00",
+        "phone": "+1-603-589-9228"
+      }
+    },
+    {
+      "type": "way",
+      "id": 179913167,
+      "center": {
+        "lat": 42.7616043,
+        "lon": -71.4660263
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "133",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "asian",
+        "drink:beer": "served",
+        "drink:liquor": "served",
+        "drink:wine": "served",
+        "name": "San Francisco Kitchen",
+        "opening_hours": "Mo-We 11:00-22:00; Th 11:00-23:00; Fr 11:00-24:00; Sa 12:00-24:00; Su 16:00-22:00",
+        "phone": "+1-603-886-8833",
+        "website": "https://www.sfkitchen.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 180192728,
+      "center": {
+        "lat": 42.7564054,
+        "lon": -71.4690937
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "60",
+        "addr:postcode": "03060",
+        "addr:street": "West Hollis Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Caribbean Tropical"
+      }
+    },
+    {
+      "type": "way",
+      "id": 180192781,
+      "center": {
+        "lat": 42.7564688,
+        "lon": -71.4689795
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "58",
+        "addr:postcode": "03060",
+        "addr:street": "West Hollis Street",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Stan's Place"
+      }
+    },
+    {
+      "type": "way",
+      "id": 180514484,
+      "center": {
+        "lat": 42.7613501,
+        "lon": -71.4659249
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "143",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "cafe",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "jajaBelle's",
+        "opening_hours": "We-Fr 08:00-14:00, Sa-Su 09:00-14:00",
+        "phone": "+1 603-769-1873",
+        "website": "https://www.jajabelles.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 180643877,
+      "center": {
+        "lat": 42.760694,
+        "lon": -71.4647093
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "182",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "description": "Pastry & Coffee Shop",
+        "name": "jajaBelle's",
+        "opening_hours": "Mo 08:00-13:30; Tu-Fr 08:00-17:00; Sa 09:00-17:00; Su 09:00-13:30",
+        "phone": "+1-603-769-1873",
+        "website": "https://www.jajabelles.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 180643880,
+      "center": {
+        "lat": 42.759264,
+        "lon": -71.4650174
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "219",
+        "addr:postcode": "03060",
+        "addr:street": "Main Street",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Joanne's Kitchen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 180643883,
+      "center": {
+        "lat": 42.7604532,
+        "lon": -71.4655084
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "185",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "pub",
+        "building": "yes",
+        "drink:beer": "served",
+        "drink:liquor": "served",
+        "drink:wine": "served",
+        "facebook": "http://www.facebook.com/MarthasExchange",
+        "microbrewery": "yes",
+        "name": "Martha's Exchange",
+        "opening_hours": "Mo,Tu 11:00-21:00; We 11:00-21:30; Th 11:00-23:00; Fr 11:00-24:00; Sa 00:00-01:00,11:00-24:00; Su 00:00-01:00,11:00-21:30",
+        "outdoor_seating": "sidewalk",
+        "phone": "+1-603-883-8781",
+        "smoking": "no",
+        "website": "https://www.marthas-exchange.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 180643892,
+      "center": {
+        "lat": 42.7596909,
+        "lon": -71.465214
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "207",
+        "addr:postcode": "03060",
+        "addr:street": "Main Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "seafood",
+        "name": "Surf Restaurant",
+        "website": "https://www.surfseafood.com/nashua.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 180771900,
+      "center": {
+        "lat": 42.7595453,
+        "lon": -71.4661272
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "6",
+        "addr:postcode": "03060",
+        "addr:street": "Elm Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Cafe India",
+        "website": "http://www.cafeindianh.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 180771905,
+      "center": {
+        "lat": 42.7596348,
+        "lon": -71.4666462
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "112",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "West Pearl Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Code X"
+      }
+    },
+    {
+      "type": "way",
+      "id": 180771911,
+      "center": {
+        "lat": 42.7597472,
+        "lon": -71.4660136
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "92",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "West Pearl Street",
+        "building": "yes",
+        "name": "Tex Mex Bakery",
+        "phone": "+1-603-417-6857",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 180771917,
+      "center": {
+        "lat": 42.7599675,
+        "lon": -71.466469
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "105",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "West Pearl Street",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "name": "Coffee & Kindness",
+        "website": "https://www.coffeeandkindness.co/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 188702863,
+      "center": {
+        "lat": 42.7588712,
+        "lon": -71.4599041
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "38",
+        "addr:postcode": "03060",
+        "addr:street": "East Hollis Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Wicked Twisted",
+        "website": "http://www.wickedtwistedbarandgrill.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 189314755,
+      "center": {
+        "lat": 42.7609708,
+        "lon": -71.4505566
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "115",
+        "addr:postcode": "03060",
+        "addr:street": "East Hollis Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Bob's Pizza",
+        "phone": "+1-603-881-9822",
+        "website": "http://www.bobspizzanh.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 190539404,
+      "center": {
+        "lat": 42.7650986,
+        "lon": -71.4653718
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "33",
+        "addr:postcode": "03064",
+        "addr:street": "Lowell Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Café Brasileiro",
+        "phone": "+1-603-598-9805"
+      }
+    },
+    {
+      "type": "way",
+      "id": 193819020,
+      "center": {
+        "lat": 42.7015177,
+        "lon": -71.4383695
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "310",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "american",
+        "level": "1",
+        "name": "Burtons Grill",
+        "phone": "+1-603-888-4880",
+        "website": "https://burtonsgrill.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 193819046,
+      "center": {
+        "lat": 42.702244,
+        "lon": -71.4383797
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "310",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "restaurant",
+        "brand": "Red Robin",
+        "brand:wikidata": "Q7304886",
+        "building": "yes",
+        "cuisine": "burger",
+        "level": "1",
+        "name": "Red Robin",
+        "official_name": "Red Robin Gourmet Burgers and Brews",
+        "opening_hours": "Mo-Th 11:30-22:00; Fr,Sa 11:30-23:00; Su 12:00-21:00",
+        "phone": "+1-603-888-4691",
+        "website": "https://www.redrobin.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 194225719,
+      "center": {
+        "lat": 42.8001907,
+        "lon": -71.5369785
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "610",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/FronteraNH/",
+        "contact:instagram": "https://www.instagram.com/fronteranashua/",
+        "cuisine": "mexican",
+        "email": "nashua@fronterarestaurant.com",
+        "name": "Frontera Tacos & Tequila",
+        "phone": "+1 603-459-8692",
+        "takeaway": "yes",
+        "website": "https://fronterarestaurant.com/nashua/",
+        "website:menu": "https://fronterarestaurant.com/menu-nashua/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 194225735,
+      "center": {
+        "lat": 42.789809,
+        "lon": -71.5160169
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "449",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "amenity": "pub",
+        "building": "yes",
+        "currency:XBT": "no",
+        "drink:beer": "served",
+        "name": "O'Shea's",
+        "opening_hours": "00:00-01:00,13:00-24:00",
+        "phone": "+1-603-943-7089",
+        "website": "http://osheastavern.weebly.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 194225736,
+      "center": {
+        "lat": 42.7977909,
+        "lon": -71.5352303
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "590",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "amenity": "fast_food",
+        "brand": "Panera Bread",
+        "brand:wikidata": "Q7130852",
+        "building": "yes",
+        "cuisine": "sandwich;bakery",
+        "name": "Panera Bread",
+        "opening_hours": "Mo-Th 06:00-21:30; Fr-Sa 06:00-22:00; Su 06:00-21:00",
+        "phone": "+1 603-821-6021",
+        "short_name": "Panera",
+        "takeaway": "yes",
+        "website": "https://locations.panerabread.com/nh/nashua/590-amherst-street.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 194858917,
+      "center": {
+        "lat": 42.7638261,
+        "lon": -71.46733
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "8",
+        "addr:postcode": "03064",
+        "addr:street": "Franklin Street",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Bonhoeffer's Café & Espresso",
+        "opening_hours": "Tu-Sa 07:00-14:00",
+        "website": "https://www.bonhoefferscafe.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 202230660,
+      "center": {
+        "lat": 42.7913087,
+        "lon": -71.519418
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "471",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "alt_name": "Dunkin' Donuts",
+        "amenity": "fast_food",
+        "brand": "Dunkin'",
+        "brand:wikidata": "Q847743",
+        "building": "yes",
+        "contact:website": "https://locations.dunkindonuts.com/en/nh/nashua/471-amherst-st/304339",
+        "cuisine": "donut;coffee_shop",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Dunkin'",
+        "opening_hours": "04:30-23:00",
+        "phone": "+1-603-880-8449",
+        "ref": "304339",
+        "takeaway": "yes",
+        "website": "https://locations.dunkindonuts.com/en/nh/nashua/471-amherst-st/304339"
+      }
+    },
+    {
+      "type": "way",
+      "id": 202230669,
+      "center": {
+        "lat": 42.8018366,
+        "lon": -71.5375198
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "611",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "amenity": "cafe",
+        "branch": "Nashua, 611 Amherst St",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 05:30-21:00; Fr 05:30-21:30; Sa 06:00-21:30; Su 06:00-21:00",
+        "phone": "+1 603-883-1600",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/store-locator/store/6615/nashua-611-amherst-st-611-amherst-st-nashua-nh-030631044-us"
+      }
+    },
+    {
+      "type": "way",
+      "id": 202230692,
+      "center": {
+        "lat": 42.7876213,
+        "lon": -71.5129231
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "427",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "addr:unit": "11",
+        "amenity": "restaurant",
+        "building": "yes",
+        "check_date": "2026-06-22",
+        "check_date:opening_hours": "2026-06-22",
+        "cuisine": "vietnamese",
+        "delivery": "Mo-Tu off; We-Th 11:30-20:30; Fr-Su 11:30-21:00",
+        "name": "Pho Street",
+        "opening_hours": "Mo 11:30-21:00; Tu off; We-Th 11:30-21:00; Fr-Su 11:30-21:30",
+        "outdoor_seating": "no",
+        "phone": "+1 603-699-7030",
+        "takeaway": "yes",
+        "website": "https://www.phostreetnashua.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 202230698,
+      "center": {
+        "lat": 42.7871314,
+        "lon": -71.5123629
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "419",
+        "addr:postcode": "03063",
+        "addr:street": "Amherst Street",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:wikidata": "Q839466",
+        "building": "yes",
+        "cuisine": "pizza",
+        "fixme:atp": "Check if still exists. No corresponding ATP object.",
+        "name": "Domino's",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 202906556,
+      "center": {
+        "lat": 42.7563907,
+        "lon": -71.4531917
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "87",
+        "addr:postcode": "03060",
+        "addr:street": "Allds Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Danelly's",
+        "phone": "+1-603-882-6820",
+        "website": "https://www.danellyssubsandpizza.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 203545962,
+      "center": {
+        "lat": 42.752023,
+        "lon": -71.4751295
+      },
+      "tags": {
+        "addr:housenumber": "118",
+        "addr:street": "Kinsley Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Kinsley House of Pizza",
+        "opening_hours": "Mo 11:00-20:00; We-Th 11:00-20:00; Fr 11:00-21:00; Sa 12:00-20:00; Su 12:00-18:00",
+        "phone": "+1-603-882-0554",
+        "website": "http://www.kinsleyhouseofpizza.net/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 203684949,
+      "center": {
+        "lat": 42.7526863,
+        "lon": -71.4731818
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "94",
+        "addr:postcode": "03060",
+        "addr:street": "Kinsley Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "american",
+        "name": "Roland's Family Restaurant",
+        "opening_hours": "Mo-Sa 06:00-19:00; Su 06:00-13:00",
+        "phone": "+1-603-882-1441"
+      }
+    },
+    {
+      "type": "way",
+      "id": 204711737,
+      "center": {
+        "lat": 42.7589529,
+        "lon": -71.4637452
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "1",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Eldridge Street",
+        "amenity": "cafe",
+        "building": "yes",
+        "delivery": "yes",
+        "facebook": "http://www.facebook.com/Bagel-Alley-137048589729135/",
+        "name": "Bagel Alley",
+        "opening_hours": "Mo-Fr 06:00-15:00; Sa 06:00-14:00; Su 06:00-13:00",
+        "phone": "+1-603-882-9343",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 204711738,
+      "center": {
+        "lat": 42.7575202,
+        "lon": -71.4647643
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "12",
+        "addr:postcode": "03060",
+        "addr:street": "West Hollis Street",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "Chicken 'n' Chips",
+        "website": "http://www.chickennchips.us/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 204711740,
+      "center": {
+        "lat": 42.7602057,
+        "lon": -71.4641188
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "64",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "East Pearl Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "american",
+        "name": "Cravings Café",
+        "phone": "+1-603-882-6626",
+        "website": "https://www.tillinc.org/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 204711763,
+      "center": {
+        "lat": 42.7576259,
+        "lon": -71.4643142
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "4",
+        "addr:postcode": "03060",
+        "addr:street": "West Hollis Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Slade's"
+      }
+    },
+    {
+      "type": "way",
+      "id": 204711764,
+      "center": {
+        "lat": 42.7601676,
+        "lon": -71.4643318
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "70",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "East Pearl Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "american",
+        "name": "Stella Blu",
+        "opening_hours": "Tu-Th 17:00-23:00; Fr,Sa 17:00-24:00; Su 17:00-22:00",
+        "phone": "+1-603-578-5775",
+        "website": "https://www.stellablu-nh.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 204711765,
+      "center": {
+        "lat": 42.7601589,
+        "lon": -71.4645948
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "194",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "italian",
+        "name": "Fratello's",
+        "opening_hours": "11:30-16:00,16:00+",
+        "phone": "+1-603-889-2022",
+        "website": "https://www.fratellos.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 204711779,
+      "center": {
+        "lat": 42.7574659,
+        "lon": -71.4649139
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "14",
+        "addr:postcode": "03060",
+        "addr:street": "West Hollis Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "603 Lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 204761861,
+      "center": {
+        "lat": 42.7473501,
+        "lon": -71.4830511
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "295",
+        "addr:postcode": "03060",
+        "addr:street": "Lake Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "1",
+        "building:material": "wood",
+        "cuisine": "american",
+        "name": "Bud's Restaurant",
+        "roof:shape": "flat"
+      }
+    },
+    {
+      "type": "way",
+      "id": 204761869,
+      "center": {
+        "lat": 42.7506687,
+        "lon": -71.4668905
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "49",
+        "addr:postcode": "03060",
+        "addr:street": "Lake Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Merengue Kitchen",
+        "phone": "+1-603-589-9453"
+      }
+    },
+    {
+      "type": "way",
+      "id": 204875423,
+      "center": {
+        "lat": 42.7516099,
+        "lon": -71.4604055
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "300",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "addr:unit": "407",
+        "amenity": "cafe",
+        "brand": "Gong Cha",
+        "building": "yes",
+        "check_date": "2026-05-31",
+        "cuisine": "bubble_tea",
+        "fixme:atp": "Check if still exists. No corresponding ATP object.",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Gong Cha",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 204875425,
+      "center": {
+        "lat": 42.7508445,
+        "lon": -71.460008
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "300",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "fax": "+1-603-881-7062",
+        "name": "Golden Dragon",
+        "opening_hours": "Mo-Fr 00:00-01:00,11:30-24:00; Sa 00:00-01:30,11:30-24:00; Su 00:00-01:30,12:00-24:00",
+        "phone": "+1-603-889-6122",
+        "phone:alternate": "+1-603-889-6123",
+        "website": "http://www.goldendragon-nh.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 204875440,
+      "center": {
+        "lat": 42.7539793,
+        "lon": -71.4624985
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "291",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "addr:unit": "C",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "opening_hours": "Mo-We 07:00-26:00; Th-Fr 07:00-27:00; Sa 08:00-26:00; Su 09:00-24:00",
+        "phone": "+1 603-883-1211",
+        "takeaway": "yes",
+        "website": "https://restaurants.subway.com/united-states/nh/nashua/291-main-st"
+      }
+    },
+    {
+      "type": "way",
+      "id": 208938232,
+      "center": {
+        "lat": 42.7585457,
+        "lon": -71.4616769
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "24",
+        "addr:postcode": "03060",
+        "addr:street": "East Hollis Street",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "bagel",
+        "name": "What A Bagel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 208938235,
+      "center": {
+        "lat": 42.7552598,
+        "lon": -71.4591971
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "36",
+        "addr:postcode": "03060",
+        "addr:street": "East Otterson Street",
+        "amenity": "pub",
+        "building": "retail",
+        "building:levels": "3",
+        "building:material": "wood",
+        "name": "The Pub Grainery",
+        "roof:shape": "gabled",
+        "website": "https://www.pubgrainery.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 225521002,
+      "center": {
+        "lat": 42.7653263,
+        "lon": -71.4968944
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "4",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Coliseum Avenue",
+        "addr:unit": "4",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "building": "yes",
+        "check_date": "2024-11-13",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "opening_hours": "08:00-21:00",
+        "phone": "+1-603-718-1974",
+        "takeaway": "yes",
+        "website": "https://restaurants.subway.com/united-states/nh/nashua/4-coliseum-ave"
+      }
+    },
+    {
+      "type": "way",
+      "id": 226332253,
+      "center": {
+        "lat": 42.7775979,
+        "lon": -71.5016231
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "19",
+        "addr:postcode": "03063",
+        "addr:street": "Charron Avenue",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Gianni's Pizza",
+        "website": "https://www.giannispizza.net/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 226332290,
+      "center": {
+        "lat": 42.7699684,
+        "lon": -71.4796987
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "1",
+        "addr:postcode": "03064",
+        "addr:street": "Broad Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Milano's"
+      }
+    },
+    {
+      "type": "way",
+      "id": 226332293,
+      "center": {
+        "lat": 42.7702384,
+        "lon": -71.4807733
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "120 1/2",
+        "addr:postcode": "03064",
+        "addr:street": "Amherst Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "asian",
+        "name": "Pan Asia",
+        "phone": "+1-603-880-5136"
+      }
+    },
+    {
+      "type": "way",
+      "id": 229627954,
+      "center": {
+        "lat": 42.7700626,
+        "lon": -71.4807371
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "13",
+        "addr:postcode": "03064",
+        "addr:street": "Broad Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "asian",
+        "name": "Shira Kiku",
+        "phone": "+1-603-882-8644",
+        "website": "https://kikunh.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 230560014,
+      "center": {
+        "lat": 42.79666,
+        "lon": -71.5303123
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "546",
+        "addr:postcode": "03063",
+        "addr:street": "Amherst Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "barbecue",
+        "name": "Lost Cowboy Brewing Company",
+        "opening_hours": "Tu-Th 16:00-21:00; Fr 16:00-22:00; Sa 11:00-22:00; Su 11:00-21:00",
+        "phone": "+1 603-600-6800",
+        "website": "https://www.lostcowboybrewing.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 232531667,
+      "center": {
+        "lat": 42.7857855,
+        "lon": -71.5090364
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "379",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "addr:unit": "1",
+        "amenity": "restaurant",
+        "brand": "Applebee's Neighborhood Grill & Bar",
+        "brand:wikidata": "Q621532",
+        "building": "commercial",
+        "cuisine": "american",
+        "name": "Applebee's",
+        "official_name": "Applebee's Neighborhood Grill & Bar",
+        "opening_hours": "Mo-Fr 11:00-24:00; Sa,Su 00:00-01:00,11:00-24:00",
+        "phone": "+1-603-886-9292",
+        "website": "https://restaurants.applebees.com/en-us/nh/nashua/379-amherst-st-81037",
+        "website:menu": "https://www.applebees.com/en/menu?StoreNumber=81037&action=viewmenu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 232531676,
+      "center": {
+        "lat": 42.7859344,
+        "lon": -71.5088985
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "379",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "addr:unit": "3",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mediterranean",
+        "name": "Cedar's Cafe",
+        "opening_hours": "Mo-Fr 10:00-21:00; Sa 10:00-20:00",
+        "phone": "+1-603-578-0700",
+        "website": "https://www.cedars-cafe.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 232531677,
+      "center": {
+        "lat": 42.7828973,
+        "lon": -71.5049243
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "356",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "alt_name": "Chipotle Mexican Grill",
+        "amenity": "fast_food",
+        "brand": "Chipotle",
+        "brand:wikidata": "Q465751",
+        "building": "yes",
+        "cuisine": "mexican",
+        "fax": "+1 603-594-9189",
+        "name": "Chipotle",
+        "official_name": "Chipotle Mexican Grill",
+        "opening_hours": "10:45-22:00",
+        "phone": "+1 603-594-9163",
+        "takeaway": "yes",
+        "website": "https://locations.chipotle.com/nh/nashua/356-amherst-st"
+      }
+    },
+    {
+      "type": "way",
+      "id": 232531696,
+      "center": {
+        "lat": 42.7781355,
+        "lon": -71.4971104
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "260",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "alt_name": "Dunkin' Donuts",
+        "amenity": "fast_food",
+        "brand": "Dunkin'",
+        "brand:wikidata": "Q847743",
+        "building": "yes",
+        "contact:website": "https://locations.dunkindonuts.com/en/nh/nashua/260-amherst-st/301404",
+        "cuisine": "donut;coffee_shop",
+        "drive_through": "yes",
+        "name": "Dunkin'",
+        "opening_hours": "Mo-Sa 04:00-23:00; Su 05:00-23:00",
+        "phone": "+1-603-889-7800",
+        "ref": "301404",
+        "takeaway": "yes",
+        "website": "https://locations.dunkindonuts.com/en/nh/nashua/260-amherst-st/301404"
+      }
+    },
+    {
+      "type": "way",
+      "id": 232531795,
+      "center": {
+        "lat": 42.7862901,
+        "lon": -71.5085691
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "379",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "addr:unit": "7",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese;japanese",
+        "name": "Chen Yang Li",
+        "opening_hours": "Mo-Th 11:30-22:00; Fr,Sa 11:30-23:00; Su 12:00-22:00",
+        "phone": "+1-603-578-9888",
+        "website": "https://www.chenyanglinashua.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 232531827,
+      "center": {
+        "lat": 42.7840683,
+        "lon": -71.5075611
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "3",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Cotton Road",
+        "amenity": "fast_food",
+        "building": "yes",
+        "drive_through": "yes",
+        "name": "Pressed Cafe",
+        "opening_hours": "05:00-22:00",
+        "phone": "+1-603-402-1003",
+        "takeaway": "yes",
+        "website": "https://www.pressedcafe.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 232531832,
+      "center": {
+        "lat": 42.7861028,
+        "lon": -71.5087425
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "379",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "addr:unit": "5",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Olivia's Pizza",
+        "opening_hours": "Mo-Sa 11:00-19:00; Th,Fr 11:00-20:00",
+        "phone": "+1-603-883-8200",
+        "website": "http://www.oliviaspizza.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 233679297,
+      "center": {
+        "lat": 42.7079018,
+        "lon": -71.4403202
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "256",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "addr:unit": "A",
+        "brand": "Crumbl Cookies",
+        "brand:wikidata": "Q106924414",
+        "building": "yes",
+        "name": "Crumbl Cookies",
+        "shop": "pastry",
+        "short_name": "Crumbl",
+        "takeaway": "yes",
+        "website": "https://crumblcookies.com/nhnashua"
+      }
+    },
+    {
+      "type": "way",
+      "id": 235623541,
+      "center": {
+        "lat": 42.7079065,
+        "lon": -71.4402147
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "256",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "fast_food",
+        "branch": "Webster Square",
+        "brand": "Five Guys",
+        "brand:wikidata": "Q1131810",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "Five Guys",
+        "official_name": "Five Guys Burgers and Fries",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "phone": "+1 603-897-0025",
+        "takeaway": "yes",
+        "website": "https://restaurants.fiveguys.com/258-daniel-webster-highway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 238915051,
+      "center": {
+        "lat": 42.7614208,
+        "lon": -71.4566099
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "12",
+        "addr:postcode": "03060",
+        "addr:street": "Scripture Street",
+        "building": "yes",
+        "name": "Lucia's Portugese Bakery",
+        "opening_hours": "Mo-Fr 07:00-17:00;Sa 07:00-16:00",
+        "phone": "+1-603-882-3099",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 241059730,
+      "center": {
+        "lat": 42.8025894,
+        "lon": -71.5393412
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "621",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "amenity": "ice_cream",
+        "brand": "Bruster's Ice Cream",
+        "brand:wikidata": "Q4979810",
+        "building": "yes",
+        "cuisine": "ice_cream",
+        "facebook": "http://www.facebook.com/brustersnh",
+        "name": "Bruster's Ice Cream",
+        "opening_hours": "11:00-22:00",
+        "phone": "+1-603-881-9595",
+        "website": "https://www.brusters.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 241059740,
+      "center": {
+        "lat": 42.7880591,
+        "lon": -71.5134822
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "427",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "addr:unit": "1",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "italian",
+        "name": "Cucina Toscana Ristorante Italiano",
+        "website": "http://cucinatoscananashua.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 241059752,
+      "center": {
+        "lat": 42.8025953,
+        "lon": -71.5421812
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "650",
+        "addr:postcode": "03063",
+        "addr:street": "Amherst Street",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Fat Daddy's",
+        "website": "http://www.fatdaddysnh.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 241059763,
+      "center": {
+        "lat": 42.7903285,
+        "lon": -71.5174836
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "4",
+        "addr:postcode": "03063",
+        "addr:street": "Sunapee Street",
+        "building": "yes",
+        "name": "Great Harvest Bread",
+        "shop": "bakery",
+        "website": "https://www.greatharvestnashua.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 241059821,
+      "center": {
+        "lat": 42.7879992,
+        "lon": -71.5133913
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "427",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "addr:unit": "2",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "thai",
+        "name": "Thon Khao Thai Restaurant",
+        "phone": "+1 603-883-1161",
+        "website": "https://www.thonkhao.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 241059882,
+      "center": {
+        "lat": 42.8034599,
+        "lon": -71.5426751
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "650",
+        "addr:postcode": "03063",
+        "addr:street": "Amherst Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Lilac Blossom",
+        "website": "https://lilacblossom.us/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 241059884,
+      "center": {
+        "lat": 42.8026758,
+        "lon": -71.5423236
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "650",
+        "addr:postcode": "03063",
+        "addr:street": "Amherst Street",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "name": "Caesar's Pizza",
+        "opening_hours": "Mo-Th 11:00-20:00; Fr, Sa 11:00-21:00; Su 12:00-19:00",
+        "phone": "+1 603 864 8165",
+        "takeaway": "yes",
+        "website": "https://www.caesarpizzanashua.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 241059887,
+      "center": {
+        "lat": 42.7930946,
+        "lon": -71.5214498
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "493",
+        "addr:postcode": "03063",
+        "addr:street": "Amherst Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Mandarin",
+        "website": "http://www.mandarinnashua.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 241059993,
+      "center": {
+        "lat": 42.8032058,
+        "lon": -71.5404244
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "631",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "amenity": "fast_food",
+        "brand": "Wendy's",
+        "brand:wikidata": "Q550258",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "Wendy's",
+        "opening_hours": "09:00-22:00",
+        "opening_hours:drive_through": "Mo-Th 06:30-23:00; Fr-Sa 06:30-00:00; Su 06:30-23:00",
+        "phone": "+1 603-577-8706",
+        "takeaway": "yes",
+        "website": "https://locations.wendys.com/united-states/nh/nashua/631-amherst-st"
+      }
+    },
+    {
+      "type": "way",
+      "id": 241060004,
+      "center": {
+        "lat": 42.7876699,
+        "lon": -71.5129967
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "427",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "addr:unit": "10",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "building": "yes",
+        "check_date": "2026-06-22",
+        "check_date:opening_hours": "2026-06-22",
+        "contact:facebook": "https://www.facebook.com/YoshimamaSushi/",
+        "cuisine": "japanese",
+        "name": "Yoshimama Japanese Fusion & Sushi Bar",
+        "note": "Website redirects to yoshimamanashua.com, but mapping as printed on building because WHOIS lookup shows yoshimamanashua.com is managed by third-party online ordering company. HTTP is intentional, redirect doesn’t work over HTTPS.",
+        "opening_hours": "Mo off; Tu-Th 11:30-21:00; Fr-Sa 11:30-22:00; Su 12:00-21:00",
+        "outdoor_seating": "no",
+        "phone": "+1 603-718-8316",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "website": "http://yoshimama.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 244406499,
+      "center": {
+        "lat": 42.7387253,
+        "lon": -71.4906536
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "99",
+        "addr:postcode": "03062",
+        "addr:state": "NH",
+        "addr:street": "Northeastern Boulevard",
+        "addr:unit": "1",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:wikidata": "Q839466",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "opening_hours": "Mo-Th 10:30-24:00; Fr-Sa 10:30-01:00; Su 10:30-24:00",
+        "phone": "+1 603-889-8885",
+        "ref": "3207",
+        "takeaway": "yes",
+        "website": "https://pizza.dominos.com/new-hampshire/nashua/99-northeastern-blvd-unit-1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 246746837,
+      "center": {
+        "lat": 42.7387737,
+        "lon": -71.4899492
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "2",
+        "addr:postcode": "03062",
+        "addr:street": "Pittsburgh Avenue",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "TJ's Deli & Catering",
+        "phone": "+1-603-883-7770",
+        "website": "https://www.tjsdeliandcatering.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 254454030,
+      "center": {
+        "lat": 42.7373185,
+        "lon": -71.4831068
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "55",
+        "addr:postcode": "03062",
+        "addr:street": "Northeastern Boulevard",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Boston Billiard Club",
+        "sport": "billiards",
+        "website": "http://www.bostonbilliardclub.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 254590556,
+      "center": {
+        "lat": 42.7390696,
+        "lon": -71.486848
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "12",
+        "addr:postcode": "03062",
+        "addr:street": "Murphy Drive",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Napa East",
+        "website": "https://napaeast.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260165737,
+      "center": {
+        "lat": 42.767599,
+        "lon": -71.494859
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "150",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Broad Street",
+        "addr:unit": "2",
+        "amenity": "restaurant",
+        "building": "retail",
+        "building:levels": "1",
+        "building:material": "wood",
+        "check_date": "2024-11-14",
+        "cuisine": "pizza;seafood",
+        "name": "Aegean Pizza & Seafood",
+        "opening_hours": "Su-Th 11:00-21:00; Fr-Sa 11:00-22:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-603-718-8417",
+        "roof:shape": "hipped",
+        "website": "https://aegeanpizzaseafood.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260165822,
+      "center": {
+        "lat": 42.7674723,
+        "lon": -71.4946927
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "150",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Broad Street",
+        "addr:unit": "4",
+        "amenity": "restaurant",
+        "building": "retail",
+        "building:levels": "1",
+        "building:material": "wood",
+        "check_date": "2024-11-14",
+        "cuisine": "japanese",
+        "facebook": "http://www.facebook.com/YouYouJapaneseBistro/",
+        "name": "You You Japanese Bistro",
+        "opening_hours": "Mo-Th 11:30-14:00,16:45-21:30; Fr 11:30-14:00,16:45-22:00; Sa 13:00-14:30,16:45-22:00; Su 16:45-20:30",
+        "phone": "+1-603-882-8337",
+        "roof:shape": "flat",
+        "website": "http://www.youyoubistro.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 265134438,
+      "center": {
+        "lat": 42.7075952,
+        "lon": -71.4678122
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "385",
+        "addr:postcode": "03062-2258",
+        "addr:state": "NH",
+        "addr:street": "East Dunstable Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Lilac Blossom",
+        "opening_hours": "Mo-Th 11:30-22:00; Fr,Sa 11:30-23:00; Su 12:00-22:00",
+        "phone": "+1-603-888-9588",
+        "website": "https://lilacblossom.us/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 265134440,
+      "center": {
+        "lat": 42.7084215,
+        "lon": -71.4678548
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "383",
+        "addr:postcode": "03062",
+        "addr:street": "East Dunstable Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Valentino's",
+        "website": "https://www.valentinosmarket.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 266068597,
+      "center": {
+        "lat": 42.7148792,
+        "lon": -71.5063273
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "25",
+        "addr:postcode": "03062",
+        "addr:street": "Merrit Parkway",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Maplewood Pizza & Seafood",
+        "website": "https://www.maplewoodpizzanashua.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 266068603,
+      "center": {
+        "lat": 42.7145532,
+        "lon": -71.5063464
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "25",
+        "addr:postcode": "03062",
+        "addr:street": "Merrit Parkway",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Yang Kitchen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269757956,
+      "center": {
+        "lat": 42.7517894,
+        "lon": -71.4690643
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "136",
+        "addr:postcode": "03060",
+        "addr:street": "Pine Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Pine Street Eatery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 276219588,
+      "center": {
+        "lat": 42.7566097,
+        "lon": -71.4708539
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "57",
+        "addr:postcode": "03060",
+        "addr:street": "Palm Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Estabrook Grill",
+        "website": "https://www.estabrookgrill.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 276219788,
+      "center": {
+        "lat": 42.7559003,
+        "lon": -71.4703768
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "74",
+        "addr:postcode": "03060",
+        "addr:street": "West Hollis Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "Paisano"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430267597,
+      "center": {
+        "lat": 42.7130204,
+        "lon": -71.4429448
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "219",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "addr:unit": "B",
+        "amenity": "fast_food",
+        "building": "yes",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "yes",
+        "name": "B.Good",
+        "opening_hours": "Mo-Sa 11:00-21:00; Su 11:00-20:00",
+        "phone": "+1-603-891-2300",
+        "website": "https://bgood.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430267602,
+      "center": {
+        "lat": 42.7131045,
+        "lon": -71.4429563
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "219",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "addr:unit": "A",
+        "amenity": "fast_food",
+        "brand": "Panda Express",
+        "brand:wikidata": "Q1358690",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Panda Express",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430267603,
+      "center": {
+        "lat": 42.7124072,
+        "lon": -71.4431411
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "221",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "addr:unit": "A",
+        "amenity": "cafe",
+        "branch": "DW Highway & Spit Brook",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "building": "retail",
+        "building:levels": "1",
+        "building:material": "wood",
+        "cuisine": "coffee_shop",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 05:30-21:00; Su 06:00-20:30",
+        "phone": "+1 603-888-0217",
+        "roof:shape": "flat",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/store-locator/store/1008879/dw-highway-spit-brook-221-a-daniel-webster-hwy-nashua-nh-030605503-us"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430668030,
+      "center": {
+        "lat": 42.7084235,
+        "lon": -71.4580582
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "108",
+        "addr:postcode": "03062",
+        "addr:state": "NH",
+        "addr:street": "Spit Brook Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "check_date": "2026-02-17",
+        "drive_through": "yes",
+        "name": "Pressed Cafe",
+        "not:brand:wikidata": "Q123005477",
+        "opening_hours": "Mo-Su 05:00-22:00",
+        "phone": "+1-603-718-1250",
+        "website": "https://www.pressedcafe.com/location-south-nashua-nh",
+        "website:menu": "https://www.pressedcafe.com/menu-nashua-nh"
+      }
+    },
+    {
+      "type": "way",
+      "id": 431798742,
+      "center": {
+        "lat": 42.7844532,
+        "lon": -71.5034221
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "27",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Trafalgar Square",
+        "amenity": "restaurant",
+        "brand": "110 Grill",
+        "brand:wikidata": "Q121292194",
+        "building": "yes",
+        "cuisine": "american",
+        "name": "110 Grill",
+        "opening_hours": "Mo-Su 11:30-21:00; We,Th 11:30-22:00; Fr,Sa 11:30-23:00",
+        "phone": "+1-603-943-7443",
+        "website": "https://www.110grill.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 431798747,
+      "center": {
+        "lat": 42.7850107,
+        "lon": -71.5077261
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "377",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "amenity": "fast_food",
+        "branch": "Somerset Plaza",
+        "brand": "Chick-fil-A",
+        "brand:wikidata": "Q491516",
+        "building": "yes",
+        "cuisine": "chicken",
+        "delivery": "yes",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Chick-fil-A",
+        "opening_hours": "Mo-Sa 06:30-22:00",
+        "phone": "+1 603-595-2202",
+        "ref": "03414",
+        "takeaway": "yes",
+        "website": "https://www.chick-fil-a.com/locations/nh/somerset-plaza"
+      }
+    },
+    {
+      "type": "way",
+      "id": 441868044,
+      "center": {
+        "lat": 42.7010721,
+        "lon": -71.4363771
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "310",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "amenity": "food_court",
+        "building": "yes",
+        "level": "0;1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 455516892,
+      "center": {
+        "lat": 42.7994037,
+        "lon": -71.5323351
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "569",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "addr:unit": "A",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "barbecue",
+        "delivery": "no",
+        "name": "Willie Jewel's",
+        "opening_hours": "11:00-21:00",
+        "phone": "+1-603-809-4546",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://williejewells.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573784837,
+      "center": {
+        "lat": 42.7773804,
+        "lon": -71.4984036
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "270",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "addr:unit": "B1",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "building": "yes",
+        "changing_table": "yes",
+        "check_date": "2026-06-09",
+        "check_date:opening_hours": "2026-06-09",
+        "cuisine": "japanese",
+        "name": "Poké Spot",
+        "opening_hours": "Mo-Sa 11:00-20:30; Su 11:00-19:30",
+        "outdoor_seating": "no",
+        "phone": "+1 603-864-0421",
+        "toilets": "yes",
+        "website": "https://pokespotnh.com",
+        "website:menu": "https://pokespotnh.com/menu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573784838,
+      "center": {
+        "lat": 42.7776772,
+        "lon": -71.4989377
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "270",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:wikidata": "Q839466",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "opening_hours": "Mo-Fr 00:00-01:00,10:30-24:00; Sa,Su 00:00-03:00,10:30-24:00",
+        "phone": "+1 603-886-0202",
+        "ref": "3209",
+        "short_name": "Domino's",
+        "takeaway": "yes",
+        "website": "https://pizza.dominos.com/new-hampshire/nashua/270-amherst-st"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573784844,
+      "center": {
+        "lat": 42.7837488,
+        "lon": -71.5032951
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "345",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "addr:unit": "1",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Bistro603",
+        "opening_hours": "Mo-Th 16:00-22:00; Fr 11:00-23:00; Sa 10:00-23:00; Su 10:00-20:00",
+        "phone": "+16037226362",
+        "website": "https://www.bistro603nashua.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 580053413,
+      "center": {
+        "lat": 42.8026371,
+        "lon": -71.5394337
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "621",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "amenity": "fast_food",
+        "brand": "Arby's",
+        "brand:wikidata": "Q630866",
+        "building": "commercial",
+        "check_date": "2024-06-21",
+        "cuisine": "sandwich",
+        "drive_through": "yes",
+        "name": "Arby's",
+        "opening_hours": "Mo-Su 10:00-22:00; Fr,Sa 10:00-23:00",
+        "phone": "+1 603-459-8563",
+        "ref": "8533",
+        "takeaway": "yes",
+        "website": "https://www.arbys.com/locations/us/nh/nashua/621-amherst-street/store-8533/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 580207594,
+      "center": {
+        "lat": 42.7619275,
+        "lon": -71.4654173
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "124",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "alt_name": "Odd Fellows Brewing Company",
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Odd Fellows",
+        "opening_hours": "Th 16:00-23:00; Fr 11:30-24:00; Sa 00:00-01:00,11:30-24:00; Su 00:00-01:00,10:00-16:00",
+        "phone": "+1-603-521-8129",
+        "website": "https://www.oddfellowsbrewery.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 580207595,
+      "center": {
+        "lat": 42.7620761,
+        "lon": -71.4653405
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "118",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "O'Brian's Sports Bar",
+        "opening_hours": "00:00-01:00,11:00-24:00",
+        "phone": "+1-603-718-8604",
+        "website": "https://www.obrienssportsbar.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 976832906,
+      "center": {
+        "lat": 42.7695219,
+        "lon": -71.4861874
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "38",
+        "addr:postcode": "03064",
+        "addr:state": "NH",
+        "addr:street": "Broad Street",
+        "alt_name": "Dunkin' Donuts",
+        "amenity": "fast_food",
+        "brand": "Dunkin'",
+        "brand:wikidata": "Q847743",
+        "building": "yes",
+        "contact:website": "https://locations.dunkindonuts.com/en/nh/nashua/38-broad-st/355463",
+        "cuisine": "donut;coffee_shop",
+        "drive_through": "yes",
+        "name": "Dunkin'",
+        "opening_hours": "05:00-20:00",
+        "phone": "+1 603-402-3610",
+        "ref": "355463",
+        "takeaway": "yes",
+        "website": "https://locations.dunkindonuts.com/en/nh/nashua/38-broad-st/355463"
+      }
+    },
+    {
+      "type": "way",
+      "id": 978821921,
+      "center": {
+        "lat": 42.7778262,
+        "lon": -71.4976685
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "262",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "addr:unit": "B",
+        "amenity": "fast_food",
+        "brand": "Playa Bowls",
+        "brand:wikidata": "Q114618507",
+        "building": "yes",
+        "check_date:opening_hours": "2026-06-09",
+        "cuisine": "açaí",
+        "drive_through": "no",
+        "name": "Playa Bowls",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "phone": "+1 603-459-8194",
+        "takeaway": "yes",
+        "website": "https://www.playabowls.com/location/nashua"
+      }
+    },
+    {
+      "type": "way",
+      "id": 978821922,
+      "center": {
+        "lat": 42.7779159,
+        "lon": -71.497596
+      },
+      "tags": {
+        "addr:city": "Nashua",
+        "addr:housenumber": "262",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "addr:unit": "A",
+        "amenity": "cafe",
+        "building": "yes",
+        "check_date:opening_hours": "2026-06-09",
+        "cuisine": "breakfast;lunch;coffee_shop",
+        "name": "Bagel Cafe",
+        "opening_hours": "Mo-Su 06:00-15:00",
+        "outdoor_seating": "yes",
+        "phone": "+1 603-204-5141",
+        "website": "https://www.bagelcafenh.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1293487528,
+      "center": {
+        "lat": 42.7554179,
+        "lon": -71.4631038
+      },
+      "tags": {
+        "alt_name": "Dunkin' Donuts",
+        "amenity": "fast_food",
+        "brand": "Dunkin'",
+        "brand:wikidata": "Q847743",
+        "building": "yes",
+        "cuisine": "donut;coffee_shop",
+        "name": "Dunkin'",
+        "takeaway": "yes"
+      }
+    }
+  ],
+  "auditQuery": "[out:json][timeout:45];rel[\"name\"=\"Nashua\"][\"boundary\"=\"administrative\"](42.69,-71.60,42.85,-71.40);map_to_area->.city;(nwr[\"amenity\"~\"^(restaurant|cafe|fast_food|ice_cream|food_court|pub|bar|biergarten)$\"](area.city);nwr[\"shop\"~\"^(bakery|coffee|deli|pastry|confectionery)$\"](area.city););out center tags;",
+  "retrievedAt": "2026-10-02T23:30:05.870Z"
+}
